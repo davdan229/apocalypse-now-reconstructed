@@ -62,7 +62,7 @@ A separate Forge MDK or Gradle installation is not required. The repository incl
 1. Install [JDK 17](https://adoptium.net/temurin/releases/?version=17). Install the **JDK**, not only a JRE.
 2. Download the repository through **Code → Download ZIP** and extract it, or clone it with Git.
 3. Open the project directory containing `gradlew.bat`.
-4. On Windows 11, right-click an empty area and select **Open in Terminal**. Alternatively, click the File Explorer address bar, enter `powershell`, and press Enter.
+4. On a supported Windows version, click the File Explorer address bar in the open project directory, enter `powershell`, and press Enter. Depending on the Windows version, the context menu may also provide **Open in Terminal** or **Open PowerShell window here**.
 5. Paste this command into PowerShell:
 
 ```powershell
