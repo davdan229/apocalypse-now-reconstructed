@@ -2,6 +2,22 @@
 
 All notable changes to the reconstructed edition are documented in this file.
 
+## 3.0.5-r2 — 2026-07-13
+
+### Optional mod compatibility
+
+- Corrected six Better Combat weapon files whose names did not match their registered Apocalypse Now item identifiers.
+- Removed one orphaned Better Combat mapping for an item that does not exist in the registry.
+- Corrected the case-sensitive Better Combat claymore preset identifier.
+- Added Better Combat mappings for ten previously omitted melee weapons, bringing validated coverage to 221 registered weapons.
+- Added the Farmer's Delight `tools/knives` tag alongside the Forge knife tag for all 41 Apocalypse Now knives.
+- Expanded the static audit to reject orphaned weapon mappings, invalid Better Combat presets, missing melee coverage and mismatched knife tags.
+
+### Verification
+
+- Completed a clean Java 17 build and static audit with zero errors and zero warnings.
+- Completed dedicated-server startup, world generation, datapack discovery and clean shutdown with Better Combat 1.9.0+1.20.1, Player Animator 1.0.2-rc1+1.20, Cloth Config 11.1.136 and Farmer's Delight 1.3.2 on Forge 47.4.10.
+
 ## 3.0.5-r1 — 2026-07-13
 
 ### Source and build restoration

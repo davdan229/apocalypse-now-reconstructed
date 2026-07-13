@@ -43,6 +43,13 @@ Technical baseline:
 
 See [CHANGELOG.md](CHANGELOG.md) for the detailed list.
 
+## Optional mod compatibility
+
+- **Better Combat 1.9.0+1.20.1:** dedicated weapon attributes cover 221 registered Apocalypse Now weapons. Invalid legacy mappings were corrected and previously omitted melee families were added.
+- **Farmer's Delight 1.3.2:** all 41 Apocalypse Now knives are exposed through both the Forge and Farmer's Delight knife tags, so they are recognized by cutting-board recipes and the mod's standard knife-dependent interactions. Farmer's Delight knives also remain valid for Apocalypse Now recipes that accept `forge:tools/knives`.
+
+Both integrations are optional; neither mod is required to run Apocalypse Now. When Better Combat is installed, install its required Player Animator and Cloth Config dependencies as usual. The combination above was verified on a Forge 47.4.10 dedicated server using Java 17.
+
 ## Installing the built JAR
 
 1. Install Minecraft 1.20.1 and Forge 47.4.10.

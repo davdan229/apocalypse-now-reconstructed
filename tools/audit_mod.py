@@ -103,6 +103,120 @@ for json_file in json_files:
 stats["json_files"] = len(json_files)
 
 
+# Optional combat and food-mod integrations are data-driven, so validate the
+# resource contract even when those mods are not installed in the audit runtime.
+better_combat_presets = {
+    "anchor",
+    "axe",
+    "battlestaff",
+    "bow_two_handed_heavy",
+    "bow_two_handed_light",
+    "claw",
+    "claymore",
+    "coral_blade",
+    "crossbow_two_handed_heavy",
+    "crossbow_two_handed_light",
+    "cutlass",
+    "dagger",
+    "double_axe",
+    "fist",
+    "glaive",
+    "halberd",
+    "hammer",
+    "heavy_axe",
+    "katana",
+    "lance",
+    "mace",
+    "pickaxe",
+    "rapier",
+    "scythe",
+    "sickle",
+    "soul_knife",
+    "spear",
+    "staff",
+    "sword",
+    "trident",
+    "twin_blade",
+    "wand",
+}
+weapon_attribute_files = sorted((DATA / "weapon_attributes").glob("*.json"))
+weapon_attribute_items: set[str] = set()
+for path in weapon_attribute_files:
+    item_id = path.stem
+    weapon_attribute_items.add(item_id)
+    if item_id not in items:
+        errors.append(f"Better Combat attributes target unknown item apocalypsenow:{item_id}: {rel(path)}")
+    data = load_json(path)
+    if not isinstance(data, dict):
+        continue
+    parent = data.get("parent")
+    attributes = data.get("attributes")
+    if parent is None:
+        if not isinstance(attributes, dict):
+            errors.append(f"Better Combat attributes have neither parent nor attributes: {rel(path)}")
+        continue
+    if not isinstance(parent, str) or not re.fullmatch(r"[a-z0-9_.-]+:[a-z0-9_./-]+", parent):
+        errors.append(f"invalid Better Combat parent {parent!r} in {rel(path)}")
+        continue
+    namespace, preset = parent.split(":", 1)
+    if namespace == "bettercombat" and preset not in better_combat_presets:
+        errors.append(f"unknown Better Combat preset {parent} in {rel(path)}")
+
+melee_tag_path = DATA / "tags/items/tool/melee.json"
+melee_tag = load_json(melee_tag_path) or {}
+melee_items = {
+    value.split(":", 1)[1]
+    for value in melee_tag.get("values", [])
+    if isinstance(value, str) and value.startswith("apocalypsenow:")
+}
+missing_melee_attributes = sorted(melee_items - weapon_attribute_items)
+if missing_melee_attributes:
+    errors.append(
+        "melee-tagged items without Better Combat attributes "
+        f"({len(missing_melee_attributes)}): {', '.join(missing_melee_attributes)}"
+    )
+stats["better_combat_weapons"] = len(weapon_attribute_files)
+
+
+def local_tag_values(path: Path, label: str) -> set[str]:
+    data = load_json(path)
+    if not isinstance(data, dict) or not isinstance(data.get("values"), list):
+        errors.append(f"missing or invalid {label} tag: {rel(path)}")
+        return set()
+    values: set[str] = set()
+    for value in data["values"]:
+        if not isinstance(value, str) or not value.startswith("apocalypsenow:"):
+            errors.append(f"invalid {label} tag value {value!r} in {rel(path)}")
+            continue
+        item_id = value.split(":", 1)[1]
+        values.add(item_id)
+        if item_id not in items:
+            errors.append(f"unknown item {value} in {label} tag {rel(path)}")
+    return values
+
+
+forge_knives = local_tag_values(
+    RES / "data/forge/tags/items/tools/knives.json", "Forge knives"
+)
+farmers_delight_knives = local_tag_values(
+    RES / "data/farmersdelight/tags/items/tools/knives.json", "Farmer's Delight knives"
+)
+if forge_knives != farmers_delight_knives:
+    only_forge = sorted(forge_knives - farmers_delight_knives)
+    only_farmers = sorted(farmers_delight_knives - forge_knives)
+    errors.append(
+        "knife compatibility tags differ: "
+        f"Forge-only={only_forge}, Farmer's Delight-only={only_farmers}"
+    )
+missing_knife_attributes = sorted(forge_knives - weapon_attribute_items)
+if missing_knife_attributes:
+    errors.append(
+        "knife-tagged items without Better Combat attributes "
+        f"({len(missing_knife_attributes)}): {', '.join(missing_knife_attributes)}"
+    )
+stats["farmers_delight_knives"] = len(farmers_delight_knives)
+
+
 def model_path(location: str) -> Path | None:
     if location.startswith("#") or location.startswith("builtin/"):
         return None
