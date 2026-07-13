@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:nailbox"
+    },
+    "b": {
+      "item": "minecraft:iron_door"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:prison_door",
+    "count": 1
+  }
+}

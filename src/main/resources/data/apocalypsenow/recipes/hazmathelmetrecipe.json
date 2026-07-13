@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:polyester"
+    },
+    "c": {
+      "item": "minecraft:glass_pane"
+    },
+    "d": {
+      "item": "apocalypsenow:breathingfiltermodule"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:hazmat_suit_helmet",
+    "count": 1
+  }
+}

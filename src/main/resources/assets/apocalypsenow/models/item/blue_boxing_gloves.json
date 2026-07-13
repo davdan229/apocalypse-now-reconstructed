@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/glove_b",
+  "textures": {
+    "0": "apocalypsenow:block/bgloves",
+    "particle": "apocalypsenow:item/blue_balaclava"
+  }
+}

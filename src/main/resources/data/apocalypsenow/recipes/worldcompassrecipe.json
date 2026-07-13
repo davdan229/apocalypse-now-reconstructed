@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:needle"
+    },
+    "b": {
+      "item": "minecraft:compass"
+    },
+    "c": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:worldcompass",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "parent": "apocalypsenow:custom/stopshield",
+  "textures": {
+    "0": "apocalypsenow:block/stopshield",
+    "particle": "apocalypsenow:item/adaga"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "blocking": 1
+      },
+      "model": "apocalypsenow:item/stopsign_shield_0"
+    }
+  ]
+}

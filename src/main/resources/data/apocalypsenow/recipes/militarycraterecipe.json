@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:cloth"
+    },
+    "b": {
+      "item": "apocalypsenow:textilethread"
+    },
+    "c": {
+      "item": "apocalypsenow:wooden_crate"
+    },
+    "d": {
+      "item": "minecraft:green_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:military_crate",
+    "count": 1
+  }
+}

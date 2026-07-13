@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    " bc",
+    "d  "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:red_dye"
+    },
+    "b": {
+      "item": "apocalypsenow:plastic"
+    },
+    "c": {
+      "item": "minecraft:white_dye"
+    },
+    "d": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:umbrella",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:safety_headphones",
+    "count": 1
+  }
+}

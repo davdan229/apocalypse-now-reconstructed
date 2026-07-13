@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:gray_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:military_urban_helmet",
+    "count": 1
+  }
+}

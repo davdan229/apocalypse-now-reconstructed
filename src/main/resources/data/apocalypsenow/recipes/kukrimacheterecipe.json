@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "cba",
+    "dc "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:scrapmetal"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "minecraft:iron_nugget"
+    },
+    "d": {
+      "item": "apocalypsenow:ironhandlegripp"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:kukri_machete",
+    "count": 1
+  }
+}

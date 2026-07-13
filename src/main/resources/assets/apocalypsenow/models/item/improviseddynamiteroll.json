@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/improv",
+  "textures": {
+    "0": "apocalypsenow:block/improv",
+    "particle": "apocalypsenow:item/bombadedinamites"
+  }
+}

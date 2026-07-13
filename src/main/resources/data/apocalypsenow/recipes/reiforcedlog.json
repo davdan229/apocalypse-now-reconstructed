@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:rock"
+    },
+    "b": {
+      "tag": "minecraft:logs"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:log_with_stone",
+    "count": 1
+  }
+}

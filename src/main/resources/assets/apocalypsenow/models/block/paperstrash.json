@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/papers_1",
+  "textures": {
+    "all": "apocalypsenow:block/papers_1",
+    "particle": "apocalypsenow:block/papers_1",
+    "0": "apocalypsenow:block/papers_1"
+  },
+  "render_type": "cutout_mipped"
+}

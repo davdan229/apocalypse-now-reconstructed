@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "cbd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wheat"
+    },
+    "b": {
+      "item": "minecraft:paper"
+    },
+    "c": {
+      "item": "minecraft:carrot"
+    },
+    "d": {
+      "item": "apocalypsenow:salt"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:instantnoodles",
+    "count": 1
+  }
+}

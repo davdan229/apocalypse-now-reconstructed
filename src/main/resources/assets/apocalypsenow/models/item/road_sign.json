@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/placa",
+  "textures": {
+    "0": "apocalypsenow:block/placa",
+    "particle": "apocalypsenow:item/campingbackpack"
+  }
+}

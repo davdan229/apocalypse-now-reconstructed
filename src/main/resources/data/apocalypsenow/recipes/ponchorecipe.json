@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    "aaa",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:cloth"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:whiteponcho",
+    "count": 1
+  }
+}

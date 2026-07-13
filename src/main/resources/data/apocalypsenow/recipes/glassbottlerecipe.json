@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:stained_glass"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:glassbottle",
+    "count": 1
+  }
+}

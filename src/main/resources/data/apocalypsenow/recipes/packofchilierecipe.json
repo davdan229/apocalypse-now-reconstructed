@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:canned_chili"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:pack_of_canned_chilie",
+    "count": 1
+  }
+}

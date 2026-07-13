@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "apocalypsenow:block/rain_collector_down",
+    "up": "apocalypsenow:block/rain_collector_full",
+    "north": "apocalypsenow:block/rain_collector",
+    "east": "apocalypsenow:block/rain_collector",
+    "south": "apocalypsenow:block/rain_collector",
+    "west": "apocalypsenow:block/rain_collector",
+    "particle": "apocalypsenow:block/rain_collector_down"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_nugget"
+    },
+    "b": {
+      "item": "apocalypsenow:ironhandlegripp"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:goldenstilletoknife",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/ironladder",
+  "textures": {
+    "all": "apocalypsenow:block/ironladder",
+    "particle": "apocalypsenow:block/ironladder",
+    "0": "apocalypsenow:block/ironladder"
+  },
+  "render_type": "cutout"
+}

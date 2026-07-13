@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:red_dye"
+    },
+    "b": {
+      "item": "apocalypsenow:plastic"
+    },
+    "c": {
+      "item": "apocalypsenow:handlegripp"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:gardening_spade",
+    "count": 1
+  }
+}

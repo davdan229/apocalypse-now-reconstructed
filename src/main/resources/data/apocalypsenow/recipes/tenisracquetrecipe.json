@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " aa",
+    " ba",
+    "c  "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:plastic"
+    },
+    "b": {
+      "item": "apocalypsenow:textilethread"
+    },
+    "c": {
+      "item": "apocalypsenow:handlegripp"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:tennis_racket",
+    "count": 1
+  }
+}

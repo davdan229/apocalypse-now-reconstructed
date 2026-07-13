@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:reinforced_armor_plate"
+    },
+    "b": {
+      "item": "apocalypsenow:polyester"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:swat_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "parent": "apocalypsenow:custom/trashshield",
+  "textures": {
+    "0": "apocalypsenow:block/trash_canshield",
+    "particle": "apocalypsenow:item/adaga"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "blocking": 1
+      },
+      "model": "apocalypsenow:item/trash_shield_0"
+    }
+  ]
+}

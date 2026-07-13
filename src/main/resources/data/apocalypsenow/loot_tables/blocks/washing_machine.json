@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "apocalypsenow:blocks/washing_machine",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "apocalypsenow:washing_machine"
+        }
+      ]
+    }
+  ]
+}

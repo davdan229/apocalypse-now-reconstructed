@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bbb",
+    "cbc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:rabbit_hide"
+    },
+    "b": {
+      "item": "apocalypsenow:cloth"
+    },
+    "c": {
+      "item": "minecraft:lime_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:forestguard_chestplate",
+    "count": 1
+  }
+}

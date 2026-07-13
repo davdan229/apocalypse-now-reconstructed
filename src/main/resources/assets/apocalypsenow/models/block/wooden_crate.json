@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "apocalypsenow:block/oak_crate_botton",
+    "up": "apocalypsenow:block/oak_crate_top",
+    "north": "apocalypsenow:block/oak_crate_front",
+    "east": "apocalypsenow:block/oak_crate_front",
+    "south": "apocalypsenow:block/oak_crate_front",
+    "west": "apocalypsenow:block/oak_crate_front",
+    "particle": "apocalypsenow:block/oak_crate_botton"
+  },
+  "render_type": "solid"
+}

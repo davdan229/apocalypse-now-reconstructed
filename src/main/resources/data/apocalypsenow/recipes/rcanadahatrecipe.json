@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:rabbit_hide"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:royal_canada_police_officer_helmet",
+    "count": 1
+  }
+}

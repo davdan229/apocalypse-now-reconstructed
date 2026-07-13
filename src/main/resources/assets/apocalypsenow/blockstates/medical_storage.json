@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apocalypsenow:block/medical_storage"
+    },
+    "facing=east": {
+      "model": "apocalypsenow:block/medical_storage",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypsenow:block/medical_storage",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypsenow:block/medical_storage",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "apocalypsenow:block/medical_storage",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "apocalypsenow:block/medical_storage",
+      "x": 90
+    }
+  }
+}

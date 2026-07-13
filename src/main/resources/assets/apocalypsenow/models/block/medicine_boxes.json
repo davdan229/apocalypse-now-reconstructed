@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/medicalboxes",
+  "textures": {
+    "all": "apocalypsenow:block/medicalboxes",
+    "particle": "apocalypsenow:block/medicalboxes",
+    "0": "apocalypsenow:block/medicalboxes"
+  },
+  "render_type": "cutout"
+}

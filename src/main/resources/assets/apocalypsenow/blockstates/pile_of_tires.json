@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apocalypsenow:block/pile_of_tires"
+    },
+    "facing=east": {
+      "model": "apocalypsenow:block/pile_of_tires",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypsenow:block/pile_of_tires",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypsenow:block/pile_of_tires",
+      "y": 270
+    }
+  }
+}

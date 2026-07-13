@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/nailgun",
+  "textures": {
+    "0": "apocalypsenow:block/nailgun1",
+    "particle": "apocalypsenow:item/drill"
+  }
+}

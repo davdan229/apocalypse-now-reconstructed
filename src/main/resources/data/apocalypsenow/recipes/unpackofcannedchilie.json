@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:pack_of_canned_chilie"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:canned_chili",
+    "count": 9
+  }
+}

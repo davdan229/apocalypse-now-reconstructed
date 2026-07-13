@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aba",
+    "aca"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:cloth"
+    },
+    "b": {
+      "item": "minecraft:glow_ink_sac"
+    },
+    "c": {
+      "item": "minecraft:orange_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:construction_chestplate",
+    "count": 1
+  }
+}

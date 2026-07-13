@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bcb",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:plasticplate"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "apocalypsenow:reinforced_armor_plate"
+    },
+    "d": {
+      "item": "apocalypsenow:polyester"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:swat_chestplate",
+    "count": 1
+  }
+}

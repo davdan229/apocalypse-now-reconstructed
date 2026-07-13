@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    "aba",
+    "a  "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:gunpowder_can"
+    },
+    "b": {
+      "item": "apocalypsenow:petrol_barrel"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:explosive_barrel",
+    "count": 1
+  }
+}

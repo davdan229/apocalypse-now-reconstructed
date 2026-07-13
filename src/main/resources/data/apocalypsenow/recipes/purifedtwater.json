@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:contaminated_water"
+    },
+    {
+      "item": "apocalypsenow:purificationtablets"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:water",
+    "count": 1
+  }
+}

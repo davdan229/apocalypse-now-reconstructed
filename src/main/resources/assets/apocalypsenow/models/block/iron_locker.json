@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/ironlocker",
+  "textures": {
+    "all": "apocalypsenow:block/ironlocker",
+    "particle": "apocalypsenow:block/ironlocker",
+    "0": "apocalypsenow:block/ironlocker"
+  },
+  "render_type": "cutout"
+}

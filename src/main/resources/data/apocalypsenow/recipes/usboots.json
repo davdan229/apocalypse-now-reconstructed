@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:brown_dye"
+    },
+    "b": {
+      "item": "minecraft:iron_boots"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:us_army_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "parent": "apocalypsenow:custom/balisticoescudo",
+  "textures": {
+    "0": "apocalypsenow:block/balisticoescudo",
+    "particle": "apocalypsenow:item/adaga"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "blocking": 1
+      },
+      "model": "apocalypsenow:item/ballistic_shield_0"
+    }
+  ]
+}

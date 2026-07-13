@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apocalypsenow:block/spike_log"
+    },
+    "facing=east": {
+      "model": "apocalypsenow:block/spike_log",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypsenow:block/spike_log",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypsenow:block/spike_log",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aaa",
+    "bab"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:polyester"
+    },
+    "b": {
+      "item": "minecraft:glow_ink_sac"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:high_visibility_jacket_chestplate",
+    "count": 1
+  }
+}

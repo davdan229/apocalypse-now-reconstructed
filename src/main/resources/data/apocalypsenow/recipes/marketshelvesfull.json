@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:plasticplate"
+    },
+    "b": {
+      "item": "apocalypsenow:cardboard_box"
+    },
+    "c": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:market_shelves",
+    "count": 1
+  }
+}

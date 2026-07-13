@@ -1,0 +1,9 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "apocalypsenow:block/tall_block_proxy"
+      }
+    }
+  ]
+}

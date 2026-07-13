@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:nailbox"
+    },
+    "b": {
+      "item": "apocalypsenow:small_can"
+    },
+    "c": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:mace_can",
+    "count": 1
+  }
+}

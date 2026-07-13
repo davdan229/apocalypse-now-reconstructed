@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:brokenoldradio"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:engineering_parts",
+    "count": 3
+  }
+}

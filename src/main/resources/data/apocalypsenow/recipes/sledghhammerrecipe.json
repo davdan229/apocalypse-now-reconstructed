@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:red_dye"
+    },
+    "b": {
+      "item": "minecraft:iron_block"
+    },
+    "c": {
+      "item": "apocalypsenow:ironhandlegripp"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:sledgehammerr",
+    "count": 1
+  }
+}

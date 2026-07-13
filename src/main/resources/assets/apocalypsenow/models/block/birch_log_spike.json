@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "apocalypsenow:block/birch_spiked_log",
+    "particle": "apocalypsenow:block/birch_spiked_log"
+  },
+  "render_type": "cutout_mipped"
+}

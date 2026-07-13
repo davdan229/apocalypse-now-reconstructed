@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apocalypsenow:block/vent_entrance"
+    },
+    "facing=east": {
+      "model": "apocalypsenow:block/vent_entrance",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypsenow:block/vent_entrance",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypsenow:block/vent_entrance",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "apocalypsenow:block/vent_entrance",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "apocalypsenow:block/vent_entrance",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "de "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "b": {
+      "item": "apocalypsenow:perfume"
+    },
+    "c": {
+      "item": "apocalypsenow:engineering_parts"
+    },
+    "d": {
+      "item": "apocalypsenow:scrapmetal"
+    },
+    "e": {
+      "item": "apocalypsenow:deodorant"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:pepper_spray",
+    "count": 1
+  }
+}

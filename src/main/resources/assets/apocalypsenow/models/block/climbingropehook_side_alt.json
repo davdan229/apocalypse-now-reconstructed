@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "edge": "apocalypsenow:block/climbing_rope",
+    "pane": "apocalypsenow:block/climbing_rope"
+  },
+  "render_type": "cutout_mipped"
+}

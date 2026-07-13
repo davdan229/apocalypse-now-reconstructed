@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:cloth"
+    },
+    "b": {
+      "item": "apocalypsenow:gunpowder_can"
+    },
+    "c": {
+      "item": "minecraft:iron_block"
+    },
+    "d": {
+      "item": "minecraft:green_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:magazine_boxes",
+    "count": 1
+  }
+}

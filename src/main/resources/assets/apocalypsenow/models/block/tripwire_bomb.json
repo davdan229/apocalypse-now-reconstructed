@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/bombtrap",
+  "textures": {
+    "all": "apocalypsenow:block/bombtrap",
+    "particle": "apocalypsenow:block/bombtrap",
+    "0": "apocalypsenow:block/bombtrap"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "cdc",
+    "e f"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stone_button"
+    },
+    "b": {
+      "item": "minecraft:redstone_block"
+    },
+    "c": {
+      "item": "apocalypsenow:electrical_scrap"
+    },
+    "d": {
+      "item": "minecraft:iron_block"
+    },
+    "e": {
+      "item": "apocalypsenow:copperwire"
+    },
+    "f": {
+      "item": "minecraft:green_stained_glass"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:military_communication_radio",
+    "count": 1
+  }
+}

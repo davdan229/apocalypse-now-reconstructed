@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "apocalypsenow:block/cyan_concrete_blocks",
+    "particle": "apocalypsenow:block/cyan_concrete_blocks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/barricade",
+  "textures": {
+    "all": "apocalypsenow:block/barricade",
+    "particle": "apocalypsenow:block/barricade",
+    "0": "apocalypsenow:block/barricade"
+  },
+  "render_type": "cutout_mipped"
+}

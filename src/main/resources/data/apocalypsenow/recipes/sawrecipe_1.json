@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abb",
+    " cc"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:handlegripp"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:saw",
+    "count": 1
+  }
+}

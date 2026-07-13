@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wheat"
+    },
+    "b": {
+      "item": "minecraft:sugar"
+    },
+    "c": {
+      "item": "apocalypsenow:small_can"
+    },
+    "d": {
+      "item": "apocalypsenow:water"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:nonalcoholic_beer",
+    "count": 1
+  }
+}

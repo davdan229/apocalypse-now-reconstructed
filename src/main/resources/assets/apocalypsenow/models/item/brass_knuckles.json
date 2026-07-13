@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/brassk",
+  "textures": {
+    "0": "apocalypsenow:block/brass_knuckles",
+    "particle": "apocalypsenow:item/facasocoingles"
+  }
+}

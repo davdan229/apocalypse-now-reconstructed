@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "apocalypsenow:ruins_2",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 100,
+    "separation": 4,
+    "salt": 2036719617
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "apocalypsenow:block/birch_crate_botton",
+    "up": "apocalypsenow:block/birch_crate_top",
+    "north": "apocalypsenow:block/birch_crate_front",
+    "east": "apocalypsenow:block/birch_crate_front",
+    "south": "apocalypsenow:block/birch_crate_front",
+    "west": "apocalypsenow:block/birch_crate_front",
+    "particle": "apocalypsenow:block/birch_crate_botton"
+  },
+  "render_type": "solid"
+}

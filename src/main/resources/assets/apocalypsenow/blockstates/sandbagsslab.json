@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "apocalypsenow:block/sandbagsslab"
+    },
+    "type=top": {
+      "model": "apocalypsenow:block/sandbagsslab_top"
+    },
+    "type=double": {
+      "model": "apocalypsenow:block/sandbagsslab_full"
+    }
+  }
+}

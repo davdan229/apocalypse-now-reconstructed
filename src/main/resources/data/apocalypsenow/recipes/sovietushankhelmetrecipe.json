@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:cloth"
+    },
+    "b": {
+      "tag": "minecraft:wool"
+    },
+    "c": {
+      "item": "apocalypsenow:vodka"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:soviet_ushanka_helmet",
+    "count": 1
+  }
+}

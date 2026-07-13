@@ -1,0 +1,165 @@
+{
+  "credit": "Made with Blockbench",
+  "texture_size": [
+    32,
+    32
+  ],
+  "elements": [
+    {
+      "from": [
+        3,
+        0,
+        5
+      ],
+      "to": [
+        13,
+        3,
+        10
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            5,
+            5,
+            6.5
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            5,
+            1.5,
+            7.5,
+            3
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            5,
+            0,
+            10,
+            1.5
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            5,
+            3,
+            7.5,
+            4.5
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            5,
+            2.5,
+            0,
+            0
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            5,
+            2.5,
+            0,
+            5
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        8.25,
+        -1.25
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        8.25,
+        -0.25
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        25
+      ],
+      "translation": [
+        -2.12,
+        9.95,
+        1.13
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        -90,
+        25
+      ],
+      "translation": [
+        -2.12,
+        9.95,
+        1.13
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        5.5,
+        0
+      ]
+    },
+    "gui": {
+      "rotation": [
+        -153.76,
+        0.35,
+        179.74
+      ],
+      "translation": [
+        0,
+        8.5,
+        0
+      ],
+      "scale": [
+        1.5,
+        1.5,
+        1.5
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        13,
+        7
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ]
+    }
+  }
+}

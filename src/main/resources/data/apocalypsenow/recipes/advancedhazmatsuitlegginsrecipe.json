@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:electrical_scrap"
+    },
+    "b": {
+      "item": "apocalypsenow:kevlar"
+    },
+    "c": {
+      "item": "apocalypsenow:biohazard_leggings"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:advanced_hazmat_suit_leggings",
+    "count": 1
+  }
+}

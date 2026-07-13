@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "c c",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:engineering_parts"
+    },
+    "c": {
+      "item": "apocalypsenow:kevlar"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:spec_ops_leggings",
+    "count": 1
+  }
+}

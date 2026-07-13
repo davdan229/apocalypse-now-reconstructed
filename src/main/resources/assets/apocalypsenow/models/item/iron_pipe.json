@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/metal_tube",
+  "textures": {
+    "0": "apocalypsenow:block/metal_tube",
+    "particle": "apocalypsenow:item/cano"
+  }
+}

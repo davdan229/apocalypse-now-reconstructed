@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:polyesterthread"
+    },
+    "b": {
+      "item": "apocalypsenow:needle"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:polyester",
+    "count": 4
+  }
+}

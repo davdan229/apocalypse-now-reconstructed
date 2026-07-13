@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " a ",
+    "bc "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:handlegripp"
+    },
+    "c": {
+      "item": "minecraft:flint_and_steel"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:camping_machete",
+    "count": 1
+  }
+}

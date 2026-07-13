@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:dynamite"
+    },
+    {
+      "item": "apocalypsenow:dynamite"
+    },
+    {
+      "item": "apocalypsenow:dynamite"
+    },
+    {
+      "item": "apocalypsenow:dynamite"
+    }
+  ],
+  "result": {
+    "item": "minecraft:tnt",
+    "count": 1
+  }
+}

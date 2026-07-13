@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/gcoc",
+  "textures": {
+    "0": "apocalypsenow:block/gcoc",
+    "particle": "apocalypsenow:item/coktelmolotov"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "replace": "false",
+  "values": [
+    "minecraft:air",
+    "apocalypsenow:shotgun_belt",
+    "apocalypsenow:grenades_belt",
+    "apocalypsenow:bandolier",
+    "apocalypsenow:whiteponcho",
+    "apocalypsenow:blackponcho",
+    "apocalypsenow:blueponcho",
+    "apocalypsenow:redponcho",
+    "apocalypsenow:greenponcho",
+    "apocalypsenow:pinkponcho"
+  ]
+}

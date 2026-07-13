@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:plasticplate"
+    },
+    "b": {
+      "item": "apocalypsenow:cloth"
+    },
+    "c": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:black_football_armor_leggings",
+    "count": 1
+  }
+}

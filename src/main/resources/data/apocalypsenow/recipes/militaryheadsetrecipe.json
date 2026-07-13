@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cac"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:electrical_scrap"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "minecraft:green_wool"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:military_pilotheadset",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:glass_pane"
+    },
+    "b": {
+      "item": "minecraft:leather"
+    },
+    "c": {
+      "item": "apocalypsenow:breathingfiltermodule"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:mcu2p_gasmask_helmet",
+    "count": 1
+  }
+}

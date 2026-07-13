@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "item": "apocalypsenow:bandage"
+    },
+    "title": {
+      "translate": "advancements.firstworld_doctor.title"
+    },
+    "description": {
+      "translate": "advancements.firstworld_doctor.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "firstworld_doctor_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "apocalypsenow:bandagerecipe",
+      "apocalypsenow:rag",
+      "apocalypsenow:medicalkitrecipe",
+      "apocalypsenow:suturekitrecipe",
+      "apocalypsenow:homemadeantibioticsrecipe",
+      "apocalypsenow:adrenalinerecipe",
+      "apocalypsenow:morphinerecipe",
+      "apocalypsenow:purifedwater",
+      "apocalypsenow:desinfectrags",
+      "apocalypsenow:cleanbucketrecipe",
+      "apocalypsenow:cleanragsrecipe",
+      "apocalypsenow:cleanbandages"
+    ]
+  },
+  "parent": "apocalypsenow:thesurvivor"
+}

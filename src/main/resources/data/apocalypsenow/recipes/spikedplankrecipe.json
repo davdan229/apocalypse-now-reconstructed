@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:plank"
+    },
+    {
+      "item": "apocalypsenow:nailbox"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:spiked_plank",
+    "count": 1
+  }
+}

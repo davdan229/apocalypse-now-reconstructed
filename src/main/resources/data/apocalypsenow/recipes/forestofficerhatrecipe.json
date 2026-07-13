@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:rabbit_hide"
+    },
+    "b": {
+      "item": "minecraft:lime_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:forestguard_helmet",
+    "count": 1
+  }
+}

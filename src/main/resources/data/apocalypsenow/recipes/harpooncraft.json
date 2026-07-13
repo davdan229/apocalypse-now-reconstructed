@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    " cd",
+    "c  "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:iron_sword"
+    },
+    "c": {
+      "item": "apocalypsenow:handlegripp"
+    },
+    "d": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:harpoon",
+    "count": 1
+  }
+}

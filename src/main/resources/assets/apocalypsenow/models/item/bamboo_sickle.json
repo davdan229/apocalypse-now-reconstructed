@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "apocalypsenow:item/bamboo_29_je1_be1"
+  }
+}

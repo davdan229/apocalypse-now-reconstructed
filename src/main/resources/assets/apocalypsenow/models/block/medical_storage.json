@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/medical_i",
+  "textures": {
+    "all": "apocalypsenow:block/medical_i",
+    "particle": "apocalypsenow:block/medical_i",
+    "1": "apocalypsenow:block/medical_i"
+  },
+  "render_type": "cutout"
+}

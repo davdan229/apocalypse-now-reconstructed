@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:kevlar"
+    },
+    "b": {
+      "item": "apocalypsenow:armorplate"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:bulletproof_vest_chestplate",
+    "count": 1
+  }
+}

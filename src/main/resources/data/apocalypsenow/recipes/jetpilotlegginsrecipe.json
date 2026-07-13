@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "b b",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:polyester"
+    },
+    "b": {
+      "item": "apocalypsenow:foam"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:jet_pilot_leggings",
+    "count": 1
+  }
+}

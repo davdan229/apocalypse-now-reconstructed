@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "def"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:plasticplate"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "minecraft:glass_pane"
+    },
+    "d": {
+      "item": "minecraft:red_dye"
+    },
+    "e": {
+      "item": "minecraft:blue_dye"
+    },
+    "f": {
+      "item": "minecraft:white_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:patriotmotorcyclehelmet_helmet",
+    "count": 1
+  }
+}

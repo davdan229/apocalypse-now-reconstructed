@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/cano",
+  "textures": {
+    "0": "apocalypsenow:block/bombadecano2",
+    "particle": "apocalypsenow:item/bombadecano"
+  }
+}

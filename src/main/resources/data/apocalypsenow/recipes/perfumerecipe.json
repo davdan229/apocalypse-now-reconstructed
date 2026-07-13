@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "bc"
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:small_flowers"
+    },
+    "b": {
+      "item": "minecraft:glass_bottle"
+    },
+    "c": {
+      "item": "apocalypsenow:soap"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:perfume",
+    "count": 1
+  }
+}

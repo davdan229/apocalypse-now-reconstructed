@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:plastic"
+    },
+    "b": {
+      "item": "apocalypsenow:glue"
+    },
+    "c": {
+      "item": "apocalypsenow:foam"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:pile_of_tires",
+    "count": 2
+  }
+}

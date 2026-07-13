@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "bdb",
+    "ebf"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:ducttape"
+    },
+    "b": {
+      "item": "apocalypsenow:dynamite"
+    },
+    "c": {
+      "item": "apocalypsenow:fertilizer"
+    },
+    "d": {
+      "item": "apocalypsenow:gunpowder_can"
+    },
+    "e": {
+      "item": "apocalypsenow:engineering_parts"
+    },
+    "f": {
+      "item": "apocalypsenow:textilethread"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:improviseddynamiteroll",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "b b",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:kevlar"
+    },
+    "b": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:fire_figther_leggings",
+    "count": 1
+  }
+}

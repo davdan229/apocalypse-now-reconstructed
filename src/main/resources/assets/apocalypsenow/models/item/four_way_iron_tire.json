@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "apocalypsenow:item/four_way_tire_iron"
+  }
+}

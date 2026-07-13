@@ -1,0 +1,32 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "apocalypsenow:item/coins"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "apocalypsenow:coins_quantity4": 1
+      },
+      "model": "apocalypsenow:item/coins_0"
+    },
+    {
+      "predicate": {
+        "apocalypsenow:coins_coinsvalue16": 1
+      },
+      "model": "apocalypsenow:item/coins_1"
+    },
+    {
+      "predicate": {
+        "apocalypsenow:coins_coinsvalue32": 1
+      },
+      "model": "apocalypsenow:item/coins_2"
+    },
+    {
+      "predicate": {
+        "apocalypsenow:coins_coinsvalue8": 1
+      },
+      "model": "apocalypsenow:item/coins_3"
+    }
+  ]
+}

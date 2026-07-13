@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/barreiradeespinho",
+  "textures": {
+    "all": "apocalypsenow:block/spikes",
+    "particle": "apocalypsenow:block/spikes",
+    "0": "apocalypsenow:block/barreiradeespinhos"
+  },
+  "render_type": "cutout_mipped"
+}

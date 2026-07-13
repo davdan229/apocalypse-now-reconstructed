@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:engineering_parts"
+    },
+    "b": {
+      "item": "apocalypsenow:scrapmetal"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:sewage_hatch",
+    "count": 1
+  }
+}

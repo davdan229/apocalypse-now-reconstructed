@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:rolling_pin"
+    },
+    "b": {
+      "item": "minecraft:sugar_cane"
+    },
+    "c": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:alcohol",
+    "count": 1
+  }
+}

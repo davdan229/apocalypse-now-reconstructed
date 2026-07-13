@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:kevlar"
+    },
+    "b": {
+      "item": "minecraft:light_blue_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:press_bulletproof_vest_chestplate",
+    "count": 1
+  }
+}

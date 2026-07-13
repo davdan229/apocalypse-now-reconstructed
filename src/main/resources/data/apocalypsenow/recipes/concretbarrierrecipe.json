@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:sledgehammerr"
+    },
+    {
+      "item": "minecraft:light_gray_concrete"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:concrete_barrier",
+    "count": 1
+  }
+}

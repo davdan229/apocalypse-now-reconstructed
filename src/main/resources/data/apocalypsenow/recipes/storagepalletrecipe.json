@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:sedexbox"
+    },
+    "b": {
+      "item": "apocalypsenow:pallet_slab"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:pallet_storage",
+    "count": 1
+  }
+}

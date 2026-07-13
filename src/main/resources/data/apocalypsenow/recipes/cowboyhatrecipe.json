@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:cowboy_hat_helmet",
+    "count": 1
+  }
+}

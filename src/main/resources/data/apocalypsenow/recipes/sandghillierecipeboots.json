@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:cloth"
+    },
+    "b": {
+      "item": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:desertghillie_boots",
+    "count": 1
+  }
+}

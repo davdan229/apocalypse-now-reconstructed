@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:plasticplate"
+    },
+    "b": {
+      "item": "apocalypsenow:armorplate"
+    },
+    "c": {
+      "item": "minecraft:black_stained_glass_pane"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:military_riot_armor_helmet",
+    "count": 1
+  }
+}

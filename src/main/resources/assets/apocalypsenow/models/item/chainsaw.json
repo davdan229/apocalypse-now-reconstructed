@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/chainsaw",
+  "textures": {
+    "0": "apocalypsenow:block/chainsaw",
+    "particle": "apocalypsenow:item/tacodeserra"
+  }
+}

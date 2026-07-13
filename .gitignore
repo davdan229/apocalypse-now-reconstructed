@@ -1,0 +1,42 @@
+# Gradle and build output
+.gradle/
+build/
+out/
+mcmodsrepo/
+src/generated/
+
+# Minecraft development runtime
+run/
+run-data/
+logs/
+crash-reports/
+
+# Local release artifacts
+release/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+bin/
+eclipse/
+.settings/
+.metadata/
+.classpath
+.project
+*.launch
+
+# Visual Studio Code
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local environment files
+.env
+.env.*

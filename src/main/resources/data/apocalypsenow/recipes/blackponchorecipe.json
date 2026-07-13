@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "bbb",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:black_dye"
+    },
+    "b": {
+      "item": "apocalypsenow:cloth"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:blackponcho",
+    "count": 1
+  }
+}

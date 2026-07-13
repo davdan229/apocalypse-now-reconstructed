@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    " ab",
+    "  a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:leather"
+    },
+    "b": {
+      "item": "minecraft:green_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:hockey_helmet",
+    "count": 1
+  }
+}

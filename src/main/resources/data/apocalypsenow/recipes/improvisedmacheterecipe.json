@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "ab",
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:scrapmetal"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:makeshift_machete",
+    "count": 1
+  }
+}

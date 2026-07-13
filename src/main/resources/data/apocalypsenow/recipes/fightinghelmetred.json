@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "a a",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:foam"
+    },
+    "b": {
+      "item": "minecraft:red_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:red_fighting_helmet",
+    "count": 1
+  }
+}

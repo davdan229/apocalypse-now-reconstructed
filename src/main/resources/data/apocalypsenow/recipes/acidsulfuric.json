@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "bc",
+    "d "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone"
+    },
+    "b": {
+      "item": "minecraft:coal_block"
+    },
+    "c": {
+      "item": "minecraft:brown_stained_glass_pane"
+    },
+    "d": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:sulfuricacid",
+    "count": 1
+  }
+}

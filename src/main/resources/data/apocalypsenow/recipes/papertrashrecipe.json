@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "dea"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:paper"
+    },
+    "b": {
+      "item": "apocalypsenow:newspaper"
+    },
+    "c": {
+      "item": "apocalypsenow:files"
+    },
+    "d": {
+      "item": "minecraft:book"
+    },
+    "e": {
+      "item": "apocalypsenow:magazine"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:papertrash",
+    "count": 2
+  }
+}

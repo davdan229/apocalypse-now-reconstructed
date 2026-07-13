@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "apocalypsenow:item/prison_door_item"
+  },
+  "render_type": "translucent"
+}

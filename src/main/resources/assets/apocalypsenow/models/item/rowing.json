@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/remo",
+  "textures": {
+    "0": "apocalypsenow:block/remo",
+    "particle": "apocalypsenow:item/woodhammer"
+  }
+}

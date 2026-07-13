@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/gascanisterb",
+  "textures": {
+    "all": "apocalypsenow:block/large_gas_canister",
+    "particle": "apocalypsenow:block/large_gas_canister",
+    "0": "apocalypsenow:block/large_gas_canister"
+  },
+  "render_type": "cutout_mipped"
+}

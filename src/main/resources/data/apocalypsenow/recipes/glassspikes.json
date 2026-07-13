@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "tag": "apocalypsenow:material/glass"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:glass_spikes",
+    "count": 1
+  }
+}

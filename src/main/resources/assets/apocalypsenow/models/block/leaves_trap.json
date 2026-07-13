@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/grasstrap",
+  "textures": {
+    "all": "apocalypsenow:block/grasstrapb",
+    "particle": "apocalypsenow:block/grasstrapb",
+    "2": "apocalypsenow:block/grasstrapb"
+  },
+  "render_type": "cutout_mipped"
+}

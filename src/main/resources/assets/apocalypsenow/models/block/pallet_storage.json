@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/pallet_slab_bau",
+  "textures": {
+    "all": "apocalypsenow:block/pallet",
+    "particle": "apocalypsenow:block/pallet",
+    "0": "apocalypsenow:block/pallet_bau"
+  },
+  "render_type": "solid"
+}

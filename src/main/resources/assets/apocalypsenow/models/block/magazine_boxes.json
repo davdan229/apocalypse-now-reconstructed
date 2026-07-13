@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/ammo",
+  "textures": {
+    "all": "apocalypsenow:block/ammo",
+    "particle": "apocalypsenow:block/ammo",
+    "0": "apocalypsenow:block/ammo"
+  },
+  "render_type": "cutout"
+}

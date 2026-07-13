@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:club"
+    },
+    {
+      "item": "apocalypsenow:sawi"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:club_with_saw",
+    "count": 1
+  }
+}

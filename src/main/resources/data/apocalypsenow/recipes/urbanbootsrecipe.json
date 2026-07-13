@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "c c"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:gray_dye"
+    },
+    "c": {
+      "item": "apocalypsenow:polyester"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:military_urban_boots",
+    "count": 1
+  }
+}

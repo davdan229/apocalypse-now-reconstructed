@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/pallet_slab",
+  "textures": {
+    "all": "apocalypsenow:block/pallet",
+    "particle": "apocalypsenow:block/pallet",
+    "missing": "apocalypsenow:block/pallet"
+  },
+  "render_type": "solid"
+}

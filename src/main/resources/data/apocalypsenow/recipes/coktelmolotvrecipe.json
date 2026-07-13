@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:whisky"
+    },
+    "b": {
+      "item": "apocalypsenow:glassbottle"
+    },
+    "c": {
+      "item": "apocalypsenow:cloth"
+    },
+    "d": {
+      "item": "apocalypsenow:matches"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:cocktelmolotov_3",
+    "count": 1
+  }
+}

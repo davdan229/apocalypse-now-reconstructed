@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " ab",
+    "a  "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "minecraft:bone_meal"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:pool_cue",
+    "count": 1
+  }
+}

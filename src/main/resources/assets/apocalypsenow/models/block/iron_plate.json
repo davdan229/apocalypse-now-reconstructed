@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/planemetal",
+  "textures": {
+    "all": "apocalypsenow:block/planemetal",
+    "particle": "apocalypsenow:block/planemetal",
+    "0": "apocalypsenow:block/planemetal"
+  },
+  "render_type": "translucent"
+}

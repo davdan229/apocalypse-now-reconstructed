@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/policeshieldblock",
+  "textures": {
+    "0": "apocalypsenow:block/policeshieldsia",
+    "particle": "apocalypsenow:item/adaga"
+  }
+}

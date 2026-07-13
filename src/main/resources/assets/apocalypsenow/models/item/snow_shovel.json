@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/padeneve",
+  "textures": {
+    "0": "apocalypsenow:block/padeneve",
+    "particle": "apocalypsenow:item/padeneve"
+  }
+}

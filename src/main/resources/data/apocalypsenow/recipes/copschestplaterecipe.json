@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aab",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:polyester"
+    },
+    "b": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:police_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:sulfuricacid"
+    },
+    "b": {
+      "item": "apocalypsenow:salt"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:hydrochloricacid",
+    "count": 1
+  }
+}

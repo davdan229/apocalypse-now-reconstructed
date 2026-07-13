@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/barricadec",
+  "textures": {
+    "all": "apocalypsenow:block/barricadec",
+    "particle": "apocalypsenow:block/barricadec",
+    "0": "apocalypsenow:block/barricadec"
+  },
+  "render_type": "cutout_mipped"
+}

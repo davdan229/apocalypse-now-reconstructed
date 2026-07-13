@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:cloth"
+    },
+    "b": {
+      "item": "apocalypsenow:bandage"
+    },
+    "c": {
+      "item": "apocalypsenow:wooden_crate"
+    },
+    "d": {
+      "item": "minecraft:light_blue_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:medicine_boxes",
+    "count": 1
+  }
+}

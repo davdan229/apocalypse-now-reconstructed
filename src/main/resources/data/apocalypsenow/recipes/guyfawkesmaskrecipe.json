@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:white_dye"
+    },
+    "b": {
+      "item": "apocalypsenow:plastic"
+    },
+    "c": {
+      "item": "apocalypsenow:plasticplate"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:anarchy_helmet",
+    "count": 1
+  }
+}

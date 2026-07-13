@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "c c",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:reinforced_armor_plate"
+    },
+    "b": {
+      "item": "apocalypsenow:polyester"
+    },
+    "c": {
+      "item": "minecraft:green_wool"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:bombsquad_leggings",
+    "count": 1
+  }
+}

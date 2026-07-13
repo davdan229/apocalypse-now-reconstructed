@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "bdb",
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:textilethread"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "minecraft:leather"
+    },
+    "d": {
+      "item": "apocalypsenow:handlegripp"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:ironhandlegripp",
+    "count": 1
+  }
+}

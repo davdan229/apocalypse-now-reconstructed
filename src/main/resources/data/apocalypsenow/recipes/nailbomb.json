@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:nailbox"
+    },
+    "b": {
+      "item": "apocalypsenow:electrical_scrap"
+    },
+    "c": {
+      "item": "apocalypsenow:gunpowder_can"
+    },
+    "d": {
+      "item": "apocalypsenow:engineering_parts"
+    },
+    "e": {
+      "item": "apocalypsenow:ducttape"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:improvisedgrenade",
+    "count": 1
+  }
+}

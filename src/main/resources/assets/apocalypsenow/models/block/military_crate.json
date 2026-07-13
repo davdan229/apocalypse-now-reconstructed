@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "apocalypsenow:block/militaryboxbaixo",
+    "up": "apocalypsenow:block/militaryboxup",
+    "north": "apocalypsenow:block/militaryboxdown",
+    "east": "apocalypsenow:block/militaryboxdown",
+    "south": "apocalypsenow:block/militaryboxdown",
+    "west": "apocalypsenow:block/militaryboxdown",
+    "particle": "apocalypsenow:block/militaryboxbaixo"
+  },
+  "render_type": "solid"
+}

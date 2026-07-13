@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "apocalypsenow:block/pack_of_canned_fish"
+    },
+    "type=top": {
+      "model": "apocalypsenow:block/pack_of_canned_fish_top"
+    },
+    "type=double": {
+      "model": "apocalypsenow:block/pack_of_canned_fish_full"
+    }
+  }
+}

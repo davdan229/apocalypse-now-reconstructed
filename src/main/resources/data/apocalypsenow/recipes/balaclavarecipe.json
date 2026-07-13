@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:black_dye"
+    },
+    "b": {
+      "item": "apocalypsenow:cloth"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:balaclava",
+    "count": 1
+  }
+}

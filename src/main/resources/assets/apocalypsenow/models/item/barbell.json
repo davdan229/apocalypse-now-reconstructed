@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/barbell",
+  "textures": {
+    "0": "apocalypsenow:block/barbell",
+    "particle": "apocalypsenow:item/haltere"
+  }
+}

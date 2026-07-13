@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:ironhandlegripp"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:iron_baseball_bat",
+    "count": 1
+  }
+}

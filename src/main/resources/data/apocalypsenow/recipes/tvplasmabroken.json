@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "dbe"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:electrical_scrap"
+    },
+    "c": {
+      "tag": "forge:stained_glass_panes"
+    },
+    "d": {
+      "item": "minecraft:redstone"
+    },
+    "e": {
+      "item": "apocalypsenow:nailbox"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:broken_plasma_tv",
+    "count": 1
+  }
+}

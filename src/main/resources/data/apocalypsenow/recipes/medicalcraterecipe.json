@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "tag": "forge:stained_glass_panes"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:medical_storage",
+    "count": 1
+  }
+}

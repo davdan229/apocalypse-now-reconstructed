@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:cloth"
+    },
+    "b": {
+      "tag": "minecraft:leaves"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:ghilliesuit_boots",
+    "count": 1
+  }
+}

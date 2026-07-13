@@ -1,0 +1,82 @@
+{
+  "display": {
+    "icon": {
+      "item": "apocalypsenow:kitchen_knife"
+    },
+    "title": {
+      "translate": "advancements.thechef.title"
+    },
+    "description": {
+      "translate": "advancements.thechef.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "thechef_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "apocalypsenow:cookedfood",
+      "apocalypsenow:cookedsoup",
+      "apocalypsenow:cookedpork",
+      "apocalypsenow:cookedbeens",
+      "apocalypsenow:cookedrabbit",
+      "apocalypsenow:cookedwing",
+      "apocalypsenow:deleted_mod_element",
+      "apocalypsenow:cookedfood_campfire",
+      "apocalypsenow:cookedsoupcampfire",
+      "apocalypsenow:cookedporkcampfire",
+      "apocalypsenow:cookedbeenscampfire",
+      "apocalypsenow:cookedrabbitcampfire",
+      "apocalypsenow:cookedwingcampfire",
+      "apocalypsenow:deleted_mod_element",
+      "apocalypsenow:cookedfoodcamp",
+      "apocalypsenow:cookedsoupcamp",
+      "apocalypsenow:cookedporkcamp",
+      "apocalypsenow:cookedbeenscamp",
+      "apocalypsenow:cookedrabbitcamp",
+      "apocalypsenow:purifedwater",
+      "apocalypsenow:cookedrat",
+      "apocalypsenow:cookedrat_2",
+      "apocalypsenow:cookedrat_3",
+      "apocalypsenow:cockroach_1",
+      "apocalypsenow:cockroach_2",
+      "apocalypsenow:cockroach_3",
+      "apocalypsenow:cannedfoodopen",
+      "apocalypsenow:cannedsoupopen",
+      "apocalypsenow:cannedrabbitsoupopen",
+      "apocalypsenow:cannedporkopen",
+      "apocalypsenow:cannedporopen",
+      "apocalypsenow:cannedfishopen",
+      "apocalypsenow:cannedcarrotopen",
+      "apocalypsenow:cannedbeetrootopen",
+      "apocalypsenow:cannedstrawberryopen",
+      "apocalypsenow:canneddogfoodopen",
+      "apocalypsenow:cannedmilhoopen",
+      "apocalypsenow:cannedopen",
+      "apocalypsenow:cannedchiliopen",
+      "apocalypsenow:unpackofcannedchilie",
+      "apocalypsenow:rabbitsoupcanned",
+      "apocalypsenow:porkcanned",
+      "apocalypsenow:beenscanned",
+      "apocalypsenow:tomatoscanned",
+      "apocalypsenow:foodcanned",
+      "apocalypsenow:strawberrycanned",
+      "apocalypsenow:dogscanned",
+      "apocalypsenow:meloncanned",
+      "apocalypsenow:chiliecanned",
+      "apocalypsenow:soupcanned",
+      "apocalypsenow:fishcanned",
+      "apocalypsenow:corncanned",
+      "apocalypsenow:carrotcanned",
+      "apocalypsenow:cannedwaterrecipe"
+    ]
+  },
+  "parent": "apocalypsenow:thesurvivor"
+}

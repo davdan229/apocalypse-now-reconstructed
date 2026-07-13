@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:polyester"
+    },
+    "b": {
+      "item": "minecraft:iron_nugget"
+    },
+    "c": {
+      "item": "apocalypsenow:rope"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:climbing_rope",
+    "count": 1
+  }
+}

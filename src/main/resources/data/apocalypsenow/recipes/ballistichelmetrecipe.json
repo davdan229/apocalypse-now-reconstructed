@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:armorplate"
+    },
+    "b": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:life_jacket_bullet_helmet_helmet",
+    "count": 1
+  }
+}

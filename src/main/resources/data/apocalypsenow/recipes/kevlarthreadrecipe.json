@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:polyesterthread"
+    },
+    "c": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:kevlarthread",
+    "count": 1
+  }
+}

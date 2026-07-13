@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:plastic"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:plasticplate",
+    "count": 1
+  }
+}

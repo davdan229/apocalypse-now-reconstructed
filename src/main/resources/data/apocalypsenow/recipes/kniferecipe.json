@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bab",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:scrapmetal"
+    },
+    "c": {
+      "item": "apocalypsenow:handlegripp"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:knife",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "apocalypsenow:legacy_smithing",
+  "base": {
+    "item": "apocalypsenow:club"
+  },
+  "addition": {
+    "item": "apocalypsenow:electrical_module"
+  },
+  "result": {
+    "item": "apocalypsenow:electric_club"
+  }
+}

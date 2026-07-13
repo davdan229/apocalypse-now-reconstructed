@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/ninja",
+  "textures": {
+    "0": "apocalypsenow:block/ninja",
+    "particle": "apocalypsenow:item/estrelaninja"
+  }
+}

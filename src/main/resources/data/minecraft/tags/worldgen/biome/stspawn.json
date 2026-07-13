@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "badlands",
+    "birch_forest",
+    "cherry_grove",
+    "flower_forest",
+    "forest",
+    "old_growth_birch_forest",
+    "mangrove_swamp",
+    "swamp",
+    "windswept_gravelly_hills",
+    "windswept_hills",
+    "stony_peaks",
+    "stony_shore",
+    "snowy_slopes",
+    "snowy_beach",
+    "snowy_plains",
+    "snowy_taiga",
+    "sunflower_plains",
+    "jungle",
+    "mushroom_fields",
+    "plains",
+    "taiga"
+  ]
+}

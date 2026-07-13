@@ -1,0 +1,12 @@
+{
+  "type": "apocalypsenow:legacy_smithing",
+  "base": {
+    "item": "apocalypsenow:katana"
+  },
+  "addition": {
+    "item": "apocalypsenow:electrical_module"
+  },
+  "result": {
+    "item": "apocalypsenow:electric_module_katana"
+  }
+}

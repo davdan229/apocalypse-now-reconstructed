@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    " b ",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:plastic"
+    },
+    "b": {
+      "item": "apocalypsenow:handlegripp"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:snow_shovel",
+    "count": 1
+  }
+}

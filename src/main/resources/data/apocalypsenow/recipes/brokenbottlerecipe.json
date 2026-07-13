@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:glassbottle"
+    },
+    {
+      "item": "apocalypsenow:rock"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:broken_bottle",
+    "count": 1
+  }
+}

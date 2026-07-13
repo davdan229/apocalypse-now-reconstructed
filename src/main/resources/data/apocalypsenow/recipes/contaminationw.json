@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:polyester"
+    },
+    "b": {
+      "item": "minecraft:white_dye"
+    },
+    "c": {
+      "item": "minecraft:glass_pane"
+    },
+    "d": {
+      "item": "apocalypsenow:breathingfiltermodule"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:contamination_suit_white_helmet",
+    "count": 1
+  }
+}

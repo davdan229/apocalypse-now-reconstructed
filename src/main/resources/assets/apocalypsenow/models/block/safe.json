@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/ironsafe",
+  "textures": {
+    "all": "apocalypsenow:block/ironsafe",
+    "particle": "apocalypsenow:block/ironsafe",
+    "0": "apocalypsenow:block/ironsafe"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:slitting_pears"
+    },
+    "b": {
+      "item": "apocalypsenow:machete"
+    },
+    "c": {
+      "item": "minecraft:light_blue_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:serrated_machete",
+    "count": 1
+  }
+}

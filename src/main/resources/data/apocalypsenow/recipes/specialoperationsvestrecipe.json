@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bcb",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:kevlar"
+    },
+    "c": {
+      "item": "apocalypsenow:officer_beret_chestplate"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:specialoperationsvest_chestplate",
+    "count": 1
+  }
+}

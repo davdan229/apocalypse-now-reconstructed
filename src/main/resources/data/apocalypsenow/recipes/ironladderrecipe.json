@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:scrapmetal"
+    },
+    "b": {
+      "item": "minecraft:ladder"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:iron_ladder",
+    "count": 1
+  }
+}

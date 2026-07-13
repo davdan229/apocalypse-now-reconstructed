@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apocalypsenow:block/cross"
+    },
+    "facing=east": {
+      "model": "apocalypsenow:block/cross",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypsenow:block/cross",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypsenow:block/cross",
+      "y": 270
+    }
+  }
+}

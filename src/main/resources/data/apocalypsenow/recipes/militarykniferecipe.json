@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab ",
+    " b ",
+    " cd"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:ducttape"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "apocalypsenow:handlegripp"
+    },
+    "d": {
+      "item": "apocalypsenow:glue"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:military_knife",
+    "count": 1
+  }
+}

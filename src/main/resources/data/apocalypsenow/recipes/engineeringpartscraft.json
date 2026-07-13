@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:screwdriver"
+    },
+    {
+      "item": "apocalypsenow:watch"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:engineering_parts",
+    "count": 1
+  }
+}

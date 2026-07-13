@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:green_dye"
+    },
+    "b": {
+      "item": "apocalypsenow:cloth"
+    },
+    "c": {
+      "item": "minecraft:lime_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:forest_camo_balaclava",
+    "count": 1
+  }
+}

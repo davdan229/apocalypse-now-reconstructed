@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "apocalypsenow:armor/polyester"
+    },
+    {
+      "tag": "apocalypsenow:tool/scissors"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:polyester",
+    "count": 1
+  }
+}

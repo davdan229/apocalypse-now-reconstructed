@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/marreta",
+  "textures": {
+    "0": "apocalypsenow:block/marreta2",
+    "particle": "apocalypsenow:item/slander"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/radioold",
+  "textures": {
+    "all": "apocalypsenow:block/radioold",
+    "particle": "apocalypsenow:block/radioold",
+    "0": "apocalypsenow:block/radioold"
+  },
+  "render_type": "cutout_mipped"
+}

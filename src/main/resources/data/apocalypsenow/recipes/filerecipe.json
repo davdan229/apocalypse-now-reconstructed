@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:yellow_dye"
+    },
+    "b": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:files",
+    "count": 1
+  }
+}

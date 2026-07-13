@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "apocalypsenow:block/mangrove_log_spike",
+    "particle": "apocalypsenow:block/mangrove_log_spike"
+  },
+  "render_type": "cutout_mipped"
+}

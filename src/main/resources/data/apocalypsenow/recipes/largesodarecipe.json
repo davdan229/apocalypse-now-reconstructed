@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "abc",
+    "def"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:sugar"
+    },
+    "b": {
+      "item": "apocalypsenow:plastic"
+    },
+    "c": {
+      "item": "minecraft:honeycomb"
+    },
+    "d": {
+      "item": "minecraft:poppy"
+    },
+    "e": {
+      "item": "apocalypsenow:plasticplate"
+    },
+    "f": {
+      "item": "apocalypsenow:water"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:large_soda",
+    "count": 1
+  }
+}

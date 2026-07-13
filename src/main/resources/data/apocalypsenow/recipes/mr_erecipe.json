@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def",
+    " g "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:apple"
+    },
+    "b": {
+      "item": "minecraft:carrot"
+    },
+    "c": {
+      "item": "minecraft:bread"
+    },
+    "d": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "e": {
+      "item": "minecraft:cooked_mutton"
+    },
+    "f": {
+      "item": "minecraft:melon_slice"
+    },
+    "g": {
+      "item": "apocalypsenow:cloth"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:mre",
+    "count": 3
+  }
+}

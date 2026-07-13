@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:climbing_rope"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:climbingropewithhook",
+    "count": 1
+  }
+}

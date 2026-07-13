@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:lime_dye"
+    },
+    "b": {
+      "item": "apocalypsenow:polyester"
+    },
+    "c": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:baseball_cap_green_helmet",
+    "count": 1
+  }
+}

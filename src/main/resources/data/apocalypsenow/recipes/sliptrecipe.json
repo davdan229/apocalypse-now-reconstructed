@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:plank"
+    },
+    {
+      "item": "apocalypsenow:textilethread"
+    },
+    {
+      "item": "apocalypsenow:plank"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:splint",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/sodamachine",
+  "textures": {
+    "all": "apocalypsenow:block/sodamachine",
+    "particle": "apocalypsenow:block/sodamachine",
+    "0": "apocalypsenow:block/sodamachine"
+  },
+  "render_type": "translucent"
+}

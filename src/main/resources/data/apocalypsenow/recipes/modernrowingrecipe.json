@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "b ",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:plastic"
+    },
+    "b": {
+      "item": "apocalypsenow:handlegripp"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:modern_rowing",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "apocalypsenow:ghilliesuit_helmet",
+    "apocalypsenow:ghilliesuit_chestplate",
+    "apocalypsenow:ghilliesuit_leggings",
+    "apocalypsenow:ghilliesuit_boots",
+    "apocalypsenow:desertghillie_helmet",
+    "apocalypsenow:desertghillie_chestplate",
+    "apocalypsenow:desertghillie_leggings",
+    "apocalypsenow:desertghillie_boots",
+    "apocalypsenow:snowghillie_helmet",
+    "apocalypsenow:snowghillie_chestplate",
+    "apocalypsenow:snowghillie_leggings",
+    "apocalypsenow:snowghillie_boots",
+    "apocalypsenow:nurse_chestplate",
+    "apocalypsenow:nurse_leggings",
+    "apocalypsenow:nurse_boots",
+    "apocalypsenow:army_chestplate",
+    "apocalypsenow:army_leggings",
+    "apocalypsenow:army_boots",
+    "apocalypsenow:rusty_leggings",
+    "apocalypsenow:rusty_boots"
+  ]
+}

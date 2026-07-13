@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:white_dye"
+    },
+    "b": {
+      "item": "apocalypsenow:cloth"
+    },
+    "c": {
+      "item": "minecraft:light_gray_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:snow_camo_balaclava",
+    "count": 1
+  }
+}

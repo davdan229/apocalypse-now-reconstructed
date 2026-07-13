@@ -1,0 +1,44 @@
+{
+  "display": {
+    "icon": {
+      "item": "apocalypsenow:electrical_baseball_bat"
+    },
+    "title": {
+      "translate": "advancements.electricalengineeringiseasy.title"
+    },
+    "description": {
+      "translate": "advancements.electricalengineeringiseasy.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "electricalengineeringiseasy_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "apocalypsenow:chainsawbaseballbat",
+      "apocalypsenow:deleted_mod_element",
+      "apocalypsenow:deleted_mod_element",
+      "apocalypsenow:improvisedbombrecipe",
+      "apocalypsenow:nailbomb",
+      "apocalypsenow:engineeringpartscraft",
+      "apocalypsenow:engineeringparts_1",
+      "apocalypsenow:gunpowdercanrecipe",
+      "apocalypsenow:improviseddyniroll",
+      "apocalypsenow:pipebombcraft",
+      "apocalypsenow:eletricalpartsrecipe",
+      "apocalypsenow:eletricfencerecipe",
+      "apocalypsenow:eletricdoorrecipe",
+      "apocalypsenow:eletronicsracptbrecipe",
+      "apocalypsenow:eletronicsracptvplasmabroken",
+      "apocalypsenow:eletricscrapsmartphone"
+    ]
+  },
+  "parent": "apocalypsenow:thesurvivor"
+}

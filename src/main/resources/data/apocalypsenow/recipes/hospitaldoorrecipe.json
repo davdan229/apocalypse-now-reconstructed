@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "ba",
+    "a "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:plastic"
+    },
+    "b": {
+      "item": "minecraft:oak_door"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:hospital_door",
+    "count": 1
+  }
+}

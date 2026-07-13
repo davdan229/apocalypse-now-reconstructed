@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " b ",
+    "c  "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:plastic"
+    },
+    "c": {
+      "item": "minecraft:yellow_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:cutter_knife",
+    "count": 1
+  }
+}

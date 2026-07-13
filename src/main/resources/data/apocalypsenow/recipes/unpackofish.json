@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:pack_of_canned_fish"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:canned_fish",
+    "count": 9
+  }
+}

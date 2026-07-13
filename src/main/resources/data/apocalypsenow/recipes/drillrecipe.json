@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    " c",
+    " d"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:electrical_scrap"
+    },
+    "c": {
+      "item": "apocalypsenow:plasticplate"
+    },
+    "d": {
+      "item": "apocalypsenow:plastic"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:drill",
+    "count": 1
+  }
+}

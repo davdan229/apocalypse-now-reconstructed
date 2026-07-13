@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "apocalypsenow:blocks/desert_military_storage",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "apocalypsenow:desert_military_storage"
+        }
+      ]
+    }
+  ]
+}

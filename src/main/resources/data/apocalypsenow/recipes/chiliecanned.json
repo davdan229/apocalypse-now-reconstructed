@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cooked_beef"
+    },
+    "b": {
+      "item": "apocalypsenow:open_canned_beans"
+    },
+    "c": {
+      "item": "apocalypsenow:can"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:canned_chili",
+    "count": 1
+  }
+}

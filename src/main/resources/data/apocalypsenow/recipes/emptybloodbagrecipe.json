@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "b c",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:plastic"
+    },
+    "b": {
+      "item": "apocalypsenow:textilethread"
+    },
+    "c": {
+      "item": "apocalypsenow:needle"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:emptybloodbag",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "c "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:chest"
+    },
+    "b": {
+      "item": "apocalypsenow:engineering_parts"
+    },
+    "c": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:safe",
+    "count": 1
+  }
+}

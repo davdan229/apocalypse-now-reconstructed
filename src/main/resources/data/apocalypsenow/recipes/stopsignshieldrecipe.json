@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:road_sign"
+    },
+    {
+      "item": "apocalypsenow:screwdriver"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:stopsign_shield",
+    "count": 1
+  }
+}

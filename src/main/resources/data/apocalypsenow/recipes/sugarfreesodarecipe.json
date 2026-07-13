@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:melon_slice"
+    },
+    "b": {
+      "item": "apocalypsenow:small_can"
+    },
+    "c": {
+      "item": "apocalypsenow:water"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:sugar_free_soda",
+    "count": 1
+  }
+}

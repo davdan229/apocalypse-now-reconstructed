@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:road_sign"
+    },
+    {
+      "item": "apocalypsenow:saw"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:road_sign_axe",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:electrical_scrap"
+    },
+    "b": {
+      "item": "apocalypsenow:gunpowder_can"
+    },
+    "c": {
+      "item": "apocalypsenow:engineering_parts"
+    },
+    "d": {
+      "item": "apocalypsenow:ducttape"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:improvisedbomb",
+    "count": 1
+  }
+}

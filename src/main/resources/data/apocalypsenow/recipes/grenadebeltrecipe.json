@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab ",
+    "cab",
+    " ca"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:leather"
+    },
+    "b": {
+      "item": "minecraft:green_dye"
+    },
+    "c": {
+      "item": "apocalypsenow:gunpowder_can"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:grenades_belt",
+    "count": 1
+  }
+}

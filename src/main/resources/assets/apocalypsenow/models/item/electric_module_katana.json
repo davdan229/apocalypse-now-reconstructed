@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/katanaeletric",
+  "textures": {
+    "1": "apocalypsenow:block/eletricalkatana",
+    "particle": "apocalypsenow:item/facaborbolete"
+  }
+}

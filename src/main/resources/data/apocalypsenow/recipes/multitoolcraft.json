@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_shovel"
+    },
+    "b": {
+      "item": "minecraft:iron_pickaxe"
+    },
+    "c": {
+      "item": "apocalypsenow:plasticplate"
+    },
+    "d": {
+      "item": "minecraft:iron_axe"
+    },
+    "e": {
+      "item": "apocalypsenow:ironhandlegripp"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:survival_shovel",
+    "count": 1
+  }
+}

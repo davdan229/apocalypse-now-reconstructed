@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "ab",
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:reinforced_armor_plate"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:ballistic_shield",
+    "count": 1
+  }
+}

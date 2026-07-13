@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    " bc",
+    "b  "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_block"
+    },
+    "b": {
+      "item": "apocalypsenow:handlegripp"
+    },
+    "c": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:head_cutter",
+    "count": 1
+  }
+}

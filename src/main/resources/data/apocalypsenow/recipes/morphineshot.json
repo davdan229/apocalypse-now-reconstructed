@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:glow_ink_sac"
+    },
+    "b": {
+      "item": "minecraft:redstone"
+    },
+    "c": {
+      "item": "minecraft:lilac"
+    },
+    "d": {
+      "item": "apocalypsenow:syringe"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:morphinepot",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aab",
+    "cac",
+    "baa"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:copperwire"
+    },
+    "b": {
+      "item": "apocalypsenow:electrical_scrap"
+    },
+    "c": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:electric_fence",
+    "count": 4
+  }
+}

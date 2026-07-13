@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:cloth"
+    },
+    "b": {
+      "item": "apocalypsenow:bandage"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:nurse_leggings",
+    "count": 1
+  }
+}

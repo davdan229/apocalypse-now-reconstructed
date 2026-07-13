@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/suturekit",
+  "textures": {
+    "0": "apocalypsenow:block/suturekit",
+    "particle": "apocalypsenow:item/medikit"
+  }
+}

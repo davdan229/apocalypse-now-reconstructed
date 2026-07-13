@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:plasticplate"
+    },
+    "b": {
+      "item": "minecraft:blue_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:black_bikers_helmet",
+    "count": 1
+  }
+}

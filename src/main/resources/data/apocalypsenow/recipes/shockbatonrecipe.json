@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    "bc ",
+    "cb "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:electrical_scrap"
+    },
+    "b": {
+      "item": "apocalypsenow:aabattery"
+    },
+    "c": {
+      "item": "apocalypsenow:ironhandlegripp"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:electric_baton",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "apocalypsenow:block/cherry_botton",
+    "up": "apocalypsenow:block/cherry_top",
+    "north": "apocalypsenow:block/cherry_crate",
+    "east": "apocalypsenow:block/cherry_crate",
+    "south": "apocalypsenow:block/cherry_crate",
+    "west": "apocalypsenow:block/cherry_crate",
+    "particle": "apocalypsenow:block/cherry_botton"
+  },
+  "render_type": "solid"
+}

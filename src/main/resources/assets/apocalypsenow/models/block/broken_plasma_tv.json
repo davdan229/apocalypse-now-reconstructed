@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/plasmatv",
+  "textures": {
+    "all": "apocalypsenow:block/plasmatv",
+    "particle": "apocalypsenow:block/plasmatv",
+    "0": "apocalypsenow:block/plasmatv"
+  },
+  "render_type": "solid"
+}

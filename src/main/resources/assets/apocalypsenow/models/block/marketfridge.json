@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/marketfridge",
+  "textures": {
+    "all": "apocalypsenow:block/market",
+    "particle": "apocalypsenow:block/market",
+    "0": "apocalypsenow:block/marketfridge"
+  },
+  "render_type": "translucent"
+}

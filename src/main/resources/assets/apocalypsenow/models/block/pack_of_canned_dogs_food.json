@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "apocalypsenow:block/canned_pack_botton",
+    "up": "apocalypsenow:block/canned_pack_top",
+    "north": "apocalypsenow:block/pack_of_dogs_food",
+    "east": "apocalypsenow:block/pack_of_dogs_food",
+    "south": "apocalypsenow:block/pack_of_dogs_food",
+    "west": "apocalypsenow:block/pack_of_dogs_food",
+    "particle": "apocalypsenow:block/canned_pack_botton"
+  },
+  "render_type": "solid"
+}

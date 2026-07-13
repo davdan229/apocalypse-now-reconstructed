@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/rolo",
+  "textures": {
+    "1": "apocalypsenow:block/rolo",
+    "particle": "apocalypsenow:item/rolodedinmaite"
+  }
+}

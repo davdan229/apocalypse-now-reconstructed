@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/gravestone",
+  "textures": {
+    "all": "apocalypsenow:block/gravestonee",
+    "particle": "apocalypsenow:block/gravestonee",
+    "0": "apocalypsenow:block/gravestonee"
+  },
+  "render_type": "cutout_mipped"
+}

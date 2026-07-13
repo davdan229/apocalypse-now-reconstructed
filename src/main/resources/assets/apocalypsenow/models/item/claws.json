@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/claws",
+  "textures": {
+    "0": "apocalypsenow:block/claws",
+    "particle": "apocalypsenow:item/claws"
+  }
+}

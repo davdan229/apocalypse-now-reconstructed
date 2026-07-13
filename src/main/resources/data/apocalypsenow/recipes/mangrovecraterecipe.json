@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:nailbox"
+    },
+    "b": {
+      "item": "apocalypsenow:plank"
+    },
+    "c": {
+      "item": "minecraft:mangrove_planks"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:mangrove_crate",
+    "count": 1
+  }
+}

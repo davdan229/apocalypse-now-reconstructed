@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "minecraft:planks"
+    },
+    {
+      "item": "apocalypsenow:saw"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:plank",
+    "count": 9
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/cortacabe",
+  "textures": {
+    "0": "apocalypsenow:block/cortacabe",
+    "particle": "apocalypsenow:item/blackcleaver"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "parent": "apocalypsenow:custom/policeshield",
+  "textures": {
+    "0": "apocalypsenow:block/policeshieldsia",
+    "particle": "apocalypsenow:item/adaga"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "blocking": 1
+      },
+      "model": "apocalypsenow:item/police_shield_0"
+    }
+  ]
+}

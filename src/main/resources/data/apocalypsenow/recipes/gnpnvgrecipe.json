@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bbb",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:armorplate"
+    },
+    "b": {
+      "item": "apocalypsenow:nightvisionmodule"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:gpnvg_18_helmet_helmet",
+    "count": 1
+  }
+}

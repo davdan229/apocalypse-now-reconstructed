@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "apocalypsenow:block/sedexboxbotton",
+    "up": "apocalypsenow:block/sedexboxtop",
+    "north": "apocalypsenow:block/sedexboxleft",
+    "east": "apocalypsenow:block/sedexboxback",
+    "south": "apocalypsenow:block/sedexboxright",
+    "west": "apocalypsenow:block/sedexboxfront",
+    "particle": "apocalypsenow:block/sedexboxbotton"
+  },
+  "render_type": "solid"
+}

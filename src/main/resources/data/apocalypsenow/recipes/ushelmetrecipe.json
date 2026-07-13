@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:usa_tag"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:usa_armor_helmet",
+    "count": 1
+  }
+}

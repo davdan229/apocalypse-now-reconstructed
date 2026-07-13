@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:foam"
+    },
+    "b": {
+      "tag": "minecraft:small_flowers"
+    },
+    "c": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:soap",
+    "count": 2
+  }
+}

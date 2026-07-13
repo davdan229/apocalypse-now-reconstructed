@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/sera",
+  "textures": {
+    "0": "apocalypsenow:block/sera",
+    "particle": "apocalypsenow:item/sawi"
+  }
+}

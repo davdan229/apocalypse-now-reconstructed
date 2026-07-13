@@ -1,0 +1,12 @@
+{
+  "type": "apocalypsenow:legacy_smithing",
+  "base": {
+    "item": "apocalypsenow:iron_baseball_bat"
+  },
+  "addition": {
+    "item": "apocalypsenow:fire_module"
+  },
+  "result": {
+    "item": "apocalypsenow:flame_module_iron_baseball_bat"
+  }
+}

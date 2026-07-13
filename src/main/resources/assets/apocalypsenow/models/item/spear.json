@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/lanca",
+  "textures": {
+    "0": "apocalypsenow:block/lanc1",
+    "particle": "apocalypsenow:item/cano"
+  }
+}

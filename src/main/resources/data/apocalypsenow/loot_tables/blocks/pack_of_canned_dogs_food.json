@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "apocalypsenow:blocks/pack_of_canned_dogs_food",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "apocalypsenow:pack_of_canned_dogs_food"
+        }
+      ]
+    }
+  ]
+}

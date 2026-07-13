@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:dandelion"
+    },
+    "b": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "c": {
+      "item": "apocalypsenow:can"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:canned_corn",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "c c",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:armorplate"
+    },
+    "b": {
+      "item": "apocalypsenow:kevlar"
+    },
+    "c": {
+      "item": "apocalypsenow:polyester"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:military_riot_armor_leggings",
+    "count": 1
+  }
+}

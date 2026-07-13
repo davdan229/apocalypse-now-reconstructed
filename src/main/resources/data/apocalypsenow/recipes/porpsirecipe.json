@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cornflower"
+    },
+    "b": {
+      "item": "minecraft:sugar"
+    },
+    "c": {
+      "item": "apocalypsenow:small_can"
+    },
+    "d": {
+      "item": "apocalypsenow:water"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:porpsi",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/trashshieldblock",
+  "textures": {
+    "1": "apocalypsenow:block/trash_canshield",
+    "particle": "apocalypsenow:item/adaga"
+  }
+}

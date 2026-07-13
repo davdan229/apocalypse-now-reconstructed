@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "apocalypsenow:block/log",
+    "particle": "apocalypsenow:block/log"
+  },
+  "render_type": "solid"
+}

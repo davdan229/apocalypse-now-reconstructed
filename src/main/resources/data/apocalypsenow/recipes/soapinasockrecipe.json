@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:sock"
+    },
+    {
+      "item": "apocalypsenow:soap"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:soap_in_a_sock",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "apocalypsenow:block/mossy_bricks",
+    "top": "apocalypsenow:block/mossy_bricks",
+    "side": "apocalypsenow:block/mossy_bricks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bbb",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:leather"
+    },
+    "b": {
+      "item": "apocalypsenow:plasticplate"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:jasonmask_helmet",
+    "count": 1
+  }
+}

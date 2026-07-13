@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    "bcd",
+    " ed"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:scrapmetal"
+    },
+    "b": {
+      "item": "minecraft:copper_ingot"
+    },
+    "c": {
+      "item": "apocalypsenow:copperwire"
+    },
+    "d": {
+      "item": "apocalypsenow:electrical_scrap"
+    },
+    "e": {
+      "item": "apocalypsenow:aabattery"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:electrical_module",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/arremeso",
+  "textures": {
+    "0": "apocalypsenow:block/arremeso",
+    "particle": "apocalypsenow:item/facadearremesso"
+  }
+}

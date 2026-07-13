@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/placamachado",
+  "textures": {
+    "0": "apocalypsenow:block/placamachado",
+    "particle": "apocalypsenow:item/survivalaxe"
+  }
+}

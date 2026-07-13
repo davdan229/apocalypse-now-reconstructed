@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "apocalypsenow:machete"
+  },
+  "base": {
+    "item": "apocalypsenow:electrical_module"
+  },
+  "addition": {
+    "item": "apocalypsenow:engineering_parts"
+  },
+  "result": {
+    "item": "apocalypsenow:eletrical_machete"
+  }
+}

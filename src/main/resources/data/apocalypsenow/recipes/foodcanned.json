@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bread"
+    },
+    "b": {
+      "item": "minecraft:cooked_mutton"
+    },
+    "c": {
+      "item": "apocalypsenow:can"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:canned_food",
+    "count": 1
+  }
+}

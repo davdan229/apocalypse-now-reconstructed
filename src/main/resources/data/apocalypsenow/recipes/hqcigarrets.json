@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:high_quality_cigarettes"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:high_quality_cigarret",
+    "count": 8
+  }
+}

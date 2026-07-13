@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:plasticplate"
+    },
+    "b": {
+      "item": "apocalypsenow:polyester"
+    },
+    "c": {
+      "item": "minecraft:yellow_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:divingsuit_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:canned_corn"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:pack_of_canned_corn",
+    "count": 1
+  }
+}

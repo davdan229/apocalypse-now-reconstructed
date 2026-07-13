@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "cd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "b": {
+      "item": "minecraft:sweet_berries"
+    },
+    "c": {
+      "item": "minecraft:paper"
+    },
+    "d": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:granola_bar",
+    "count": 1
+  }
+}

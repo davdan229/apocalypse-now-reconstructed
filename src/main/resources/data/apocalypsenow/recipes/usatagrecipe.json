@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "bc",
+    " d"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:blue_dye"
+    },
+    "b": {
+      "item": "apocalypsenow:cloth"
+    },
+    "c": {
+      "item": "minecraft:red_dye"
+    },
+    "d": {
+      "item": "minecraft:white_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:usa_tag",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    " b ",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:handlegripp"
+    },
+    "c": {
+      "item": "apocalypsenow:engineering_parts"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:slitting_pears",
+    "count": 1
+  }
+}

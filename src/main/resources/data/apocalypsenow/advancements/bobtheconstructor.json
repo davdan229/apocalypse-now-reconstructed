@@ -1,0 +1,48 @@
+{
+  "display": {
+    "icon": {
+      "item": "apocalypsenow:saw"
+    },
+    "title": {
+      "translate": "advancements.bobtheconstructor.title"
+    },
+    "description": {
+      "translate": "advancements.bobtheconstructor.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "bobtheconstructor_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "apocalypsenow:scrapmetalblockrecipe",
+      "apocalypsenow:woodencraterecipe",
+      "apocalypsenow:roperecipe",
+      "apocalypsenow:glassdoorrecipe",
+      "apocalypsenow:barbewiredrecipe",
+      "apocalypsenow:craftingwoodendoor",
+      "apocalypsenow:scrapmetalrecipe",
+      "apocalypsenow:gunpowdercanrecipe",
+      "apocalypsenow:plasticcraft",
+      "apocalypsenow:deleted_mod_element",
+      "apocalypsenow:deleted_mod_element",
+      "apocalypsenow:deleted_mod_element",
+      "apocalypsenow:glassspikes",
+      "apocalypsenow:ironspikess",
+      "apocalypsenow:planks",
+      "apocalypsenow:logreiforced",
+      "apocalypsenow:reiforcedlog",
+      "apocalypsenow:plankbarricade",
+      "apocalypsenow:deleted_mod_element",
+      "apocalypsenow:metalbarrier"
+    ]
+  },
+  "parent": "apocalypsenow:thesurvivor"
+}

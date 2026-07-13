@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "apocalypsenow:block/paratanke",
+    "particle": "apocalypsenow:block/paratanke"
+  },
+  "render_type": "cutout"
+}

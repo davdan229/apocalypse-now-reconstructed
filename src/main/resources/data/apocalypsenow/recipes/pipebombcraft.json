@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a b",
+    "cde",
+    "f g"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:textilethread"
+    },
+    "b": {
+      "item": "apocalypsenow:nailbox"
+    },
+    "c": {
+      "item": "apocalypsenow:ducttape"
+    },
+    "d": {
+      "item": "apocalypsenow:pipe"
+    },
+    "e": {
+      "item": "apocalypsenow:gunpowder_can"
+    },
+    "f": {
+      "item": "apocalypsenow:engineering_parts"
+    },
+    "g": {
+      "item": "apocalypsenow:electrical_scrap"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:pipebomb",
+    "count": 1
+  }
+}

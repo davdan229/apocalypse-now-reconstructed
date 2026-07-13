@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " a ",
+    "a  "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:pipe"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:iron_pipe",
+    "count": 1
+  }
+}

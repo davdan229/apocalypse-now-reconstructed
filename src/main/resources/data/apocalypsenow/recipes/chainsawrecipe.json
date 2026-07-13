@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab ",
+    "cde",
+    " fg"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:electrical_scrap"
+    },
+    "b": {
+      "item": "apocalypsenow:oil_canister"
+    },
+    "c": {
+      "item": "apocalypsenow:ironhandlegripp"
+    },
+    "d": {
+      "item": "minecraft:iron_block"
+    },
+    "e": {
+      "item": "minecraft:iron_nugget"
+    },
+    "f": {
+      "item": "minecraft:iron_ingot"
+    },
+    "g": {
+      "item": "apocalypsenow:engineering_parts"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:chainsaw",
+    "count": 1
+  }
+}

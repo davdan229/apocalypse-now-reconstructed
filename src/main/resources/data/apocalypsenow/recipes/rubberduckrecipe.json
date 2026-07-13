@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:golden_apple"
+    },
+    "b": {
+      "item": "apocalypsenow:foam"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:rubberduck",
+    "count": 6
+  }
+}

@@ -1,0 +1,17 @@
+package net.mcreator.apocalypsenow.init;
+
+import net.mcreator.apocalypsenow.configuration.ApocalypsenowconfigurationConfiguration;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.fml.ModLoadingContext;
+import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
+import net.minecraftforge.fml.common.Mod.EventBusSubscriber.Bus;
+import net.minecraftforge.fml.config.ModConfig.Type;
+import net.minecraftforge.fml.event.lifecycle.FMLConstructModEvent;
+
+@EventBusSubscriber(modid = "apocalypsenow", bus = Bus.MOD)
+public class ApocalypsenowModConfigs {
+   @SubscribeEvent
+   public static void register(FMLConstructModEvent event) {
+      event.enqueueWork(() -> ModLoadingContext.get().registerConfig(Type.COMMON, ApocalypsenowconfigurationConfiguration.SPEC, "Apocalypse Now Config.toml"));
+   }
+}

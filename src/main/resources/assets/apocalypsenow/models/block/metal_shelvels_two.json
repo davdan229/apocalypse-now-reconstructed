@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/iron_shelf_dois",
+  "textures": {
+    "all": "apocalypsenow:block/metalshelf",
+    "particle": "apocalypsenow:block/metalshelf",
+    "0": "apocalypsenow:block/metalshelf_dois"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:vine"
+    },
+    "b": {
+      "item": "minecraft:bricks"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:mossbricks",
+    "count": 1
+  }
+}

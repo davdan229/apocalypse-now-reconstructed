@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:string"
+    },
+    "b": {
+      "item": "minecraft:glass"
+    },
+    "c": {
+      "item": "apocalypsenow:plastic"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:ski_goggles",
+    "count": 1
+  }
+}

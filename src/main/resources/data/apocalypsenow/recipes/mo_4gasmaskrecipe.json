@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:plasticplate"
+    },
+    "b": {
+      "item": "minecraft:glass_pane"
+    },
+    "c": {
+      "item": "apocalypsenow:plastic"
+    },
+    "d": {
+      "item": "apocalypsenow:breathingfiltermodule"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:mo4_gas_mask_helmet",
+    "count": 1
+  }
+}

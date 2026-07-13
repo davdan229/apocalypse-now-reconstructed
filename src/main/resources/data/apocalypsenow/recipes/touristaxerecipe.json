@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " aa",
+    " b ",
+    "bc "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:ironhandlegripp"
+    },
+    "c": {
+      "item": "minecraft:green_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:tourist_axe",
+    "count": 1
+  }
+}

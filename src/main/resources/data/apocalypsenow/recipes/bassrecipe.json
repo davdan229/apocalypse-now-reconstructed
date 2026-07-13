@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "cba",
+    "cc "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:electrical_scrap"
+    },
+    "b": {
+      "item": "apocalypsenow:plank"
+    },
+    "c": {
+      "item": "apocalypsenow:plasticplate"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:bass",
+    "count": 1
+  }
+}

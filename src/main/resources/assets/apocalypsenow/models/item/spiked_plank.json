@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "apocalypsenow:item/plank_with_nails"
+  }
+}

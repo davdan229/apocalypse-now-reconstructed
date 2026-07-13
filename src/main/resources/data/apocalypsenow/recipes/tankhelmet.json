@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "tag": "minecraft:wool"
+    },
+    "c": {
+      "item": "minecraft:iron_helmet"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:tank_helmet",
+    "count": 1
+  }
+}

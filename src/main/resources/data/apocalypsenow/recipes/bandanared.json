@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:cloth"
+    },
+    {
+      "item": "minecraft:red_dye"
+    },
+    {
+      "tag": "apocalypsenow:tool/scissors"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:red_bandana",
+    "count": 1
+  }
+}

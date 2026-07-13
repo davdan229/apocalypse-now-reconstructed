@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "b b",
+    "c c"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:cloth"
+    },
+    "b": {
+      "item": "minecraft:leather"
+    },
+    "c": {
+      "item": "apocalypsenow:scrapmetal"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:rusty_leggings",
+    "count": 1
+  }
+}

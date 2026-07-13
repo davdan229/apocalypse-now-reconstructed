@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_open",
+  "textures": {
+    "texture": "apocalypsenow:block/bunkertrapdoor",
+    "particle": "apocalypsenow:block/bunkertrapdoor"
+  },
+  "render_type": "solid"
+}

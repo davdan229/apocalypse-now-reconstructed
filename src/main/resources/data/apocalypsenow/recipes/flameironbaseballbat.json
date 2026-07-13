@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "apocalypsenow:iron_baseball_bat"
+  },
+  "base": {
+    "item": "apocalypsenow:combat_axe"
+  },
+  "addition": {
+    "item": "apocalypsenow:engineering_parts"
+  },
+  "result": {
+    "item": "apocalypsenow:flame_module_iron_baseball_bat"
+  }
+}

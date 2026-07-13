@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apocalypsenow:block/traffic_barricade"
+    },
+    "facing=east": {
+      "model": "apocalypsenow:block/traffic_barricade",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypsenow:block/traffic_barricade",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypsenow:block/traffic_barricade",
+      "y": 270
+    }
+  }
+}

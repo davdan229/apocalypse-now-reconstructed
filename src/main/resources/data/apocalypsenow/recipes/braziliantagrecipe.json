@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "bc",
+    " d"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:yellow_dye"
+    },
+    "b": {
+      "item": "apocalypsenow:cloth"
+    },
+    "c": {
+      "item": "minecraft:blue_dye"
+    },
+    "d": {
+      "item": "minecraft:green_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:brazilian_tag",
+    "count": 1
+  }
+}

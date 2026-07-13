@@ -1,0 +1,10 @@
+{
+  "type": "apocalypsenow:apocalypsenow_loot_modifier",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "chests/village/village_fletcher"
+    }
+  ],
+  "lootTable": "minecraft:chests/villagefletcher"
+}

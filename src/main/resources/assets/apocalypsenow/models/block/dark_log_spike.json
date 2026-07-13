@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "apocalypsenow:block/dark_oak_log_spike",
+    "particle": "apocalypsenow:block/dark_oak_log_spike"
+  },
+  "render_type": "cutout_mipped"
+}

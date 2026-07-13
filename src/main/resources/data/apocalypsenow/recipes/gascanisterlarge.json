@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:gas_canister"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:large_gas_canister",
+    "count": 1
+  }
+}

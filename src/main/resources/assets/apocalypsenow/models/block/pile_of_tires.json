@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/pneu",
+  "textures": {
+    "all": "apocalypsenow:block/pneu",
+    "particle": "apocalypsenow:block/pneu",
+    "0": "apocalypsenow:block/pneu"
+  },
+  "render_type": "solid"
+}

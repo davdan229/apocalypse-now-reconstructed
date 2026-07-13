@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "apocalypsenow:plastic"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:milk",
+    "count": 1
+  }
+}

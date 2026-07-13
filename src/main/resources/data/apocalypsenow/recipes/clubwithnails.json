@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:club"
+    },
+    {
+      "item": "apocalypsenow:nailbox"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:nailed_club",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aab",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:cloth"
+    },
+    "b": {
+      "item": "minecraft:red_dye"
+    },
+    "c": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:officer_beret_helmet",
+    "count": 1
+  }
+}

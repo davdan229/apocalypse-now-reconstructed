@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bab",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:snow_block"
+    },
+    "b": {
+      "item": "apocalypsenow:cloth"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:snowghillie_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "apocalypsenow:item/canteen"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "apocalypsenow:military_canteen_canteennumber": 1
+      },
+      "model": "apocalypsenow:item/military_canteen_0"
+    }
+  ]
+}

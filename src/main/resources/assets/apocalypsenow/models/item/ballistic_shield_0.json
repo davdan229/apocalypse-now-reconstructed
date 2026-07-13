@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/balisticoescudoblock",
+  "textures": {
+    "0": "apocalypsenow:block/balisticoescudo",
+    "particle": "apocalypsenow:item/adaga"
+  }
+}

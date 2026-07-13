@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/tacodesinuca",
+  "textures": {
+    "0": "apocalypsenow:block/tacodesinuca",
+    "particle": "apocalypsenow:item/tacodesinucaquebrado"
+  }
+}

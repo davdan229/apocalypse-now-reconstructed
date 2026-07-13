@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "apocalypsenow:block/pack_of_canned_beetroot"
+    },
+    "type=top": {
+      "model": "apocalypsenow:block/pack_of_canned_beetroot_top"
+    },
+    "type=double": {
+      "model": "apocalypsenow:block/pack_of_canned_beetroot_full"
+    }
+  }
+}

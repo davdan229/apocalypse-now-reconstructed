@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab ",
+    "cad",
+    " ca"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:leather"
+    },
+    "b": {
+      "item": "minecraft:yellow_dye"
+    },
+    "c": {
+      "item": "minecraft:gunpowder"
+    },
+    "d": {
+      "item": "minecraft:red_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:shotgun_belt",
+    "count": 1
+  }
+}

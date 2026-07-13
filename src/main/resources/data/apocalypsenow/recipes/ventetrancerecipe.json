@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:ventblock"
+    },
+    {
+      "tag": "apocalypsenow:hammers"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:vent_entrance",
+    "count": 1
+  }
+}

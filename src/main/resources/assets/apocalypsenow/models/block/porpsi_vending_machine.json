@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/sodamachineblue",
+  "textures": {
+    "all": "apocalypsenow:block/sodamachineblue",
+    "particle": "apocalypsenow:block/sodamachineblue",
+    "0": "apocalypsenow:block/sodamachineblue"
+  },
+  "render_type": "translucent"
+}

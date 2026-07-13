@@ -1,0 +1,12 @@
+{
+  "type": "apocalypsenow:legacy_smithing",
+  "base": {
+    "item": "apocalypsenow:katana"
+  },
+  "addition": {
+    "item": "apocalypsenow:fire_module"
+  },
+  "result": {
+    "item": "apocalypsenow:fire_module_katana"
+  }
+}

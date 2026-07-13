@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "b": {
+      "item": "minecraft:pumpkin_seeds"
+    },
+    "c": {
+      "item": "minecraft:beetroot_seeds"
+    },
+    "d": {
+      "item": "minecraft:paper"
+    },
+    "e": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "f": {
+      "item": "minecraft:melon_seeds"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:nutrition_bar",
+    "count": 1
+  }
+}

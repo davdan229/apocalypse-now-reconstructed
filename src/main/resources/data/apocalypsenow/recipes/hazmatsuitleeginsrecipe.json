@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "b b",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:polyester"
+    },
+    "b": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:biohazard_leggings",
+    "count": 1
+  }
+}

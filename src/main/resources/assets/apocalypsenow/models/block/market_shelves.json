@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/market",
+  "textures": {
+    "all": "apocalypsenow:block/market",
+    "particle": "apocalypsenow:block/market",
+    "1": "apocalypsenow:block/market"
+  },
+  "render_type": "solid"
+}

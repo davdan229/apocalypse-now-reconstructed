@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/concrete_ba",
+  "textures": {
+    "all": "apocalypsenow:block/concrete_ba",
+    "particle": "apocalypsenow:block/concrete_ba",
+    "0": "apocalypsenow:block/concrete_ba"
+  },
+  "render_type": "cutout_mipped"
+}

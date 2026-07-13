@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:salt"
+    },
+    "b": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:butter",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/iron_shelf_quatro",
+  "textures": {
+    "all": "apocalypsenow:block/metalshelf_quatro",
+    "particle": "apocalypsenow:block/metalshelf_quatro",
+    "0": "apocalypsenow:block/metalshelf_quatro"
+  },
+  "render_type": "solid"
+}

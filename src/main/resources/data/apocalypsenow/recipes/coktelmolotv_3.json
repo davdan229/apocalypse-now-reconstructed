@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "bc",
+    " d"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:rags"
+    },
+    "b": {
+      "item": "apocalypsenow:alcohol"
+    },
+    "c": {
+      "item": "apocalypsenow:glassbottle"
+    },
+    "d": {
+      "item": "minecraft:flint_and_steel"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:coktelmolotovv",
+    "count": 1
+  }
+}

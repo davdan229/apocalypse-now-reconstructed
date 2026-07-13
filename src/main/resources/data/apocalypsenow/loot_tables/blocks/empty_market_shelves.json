@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "apocalypsenow:blocks/empty_market_shelves",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "apocalypsenow:empty_market_shelves"
+        }
+      ]
+    }
+  ]
+}

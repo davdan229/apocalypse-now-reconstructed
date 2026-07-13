@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/trash_bag",
+  "textures": {
+    "all": "apocalypsenow:block/trash_bag",
+    "particle": "apocalypsenow:block/trash_bag",
+    "0": "apocalypsenow:block/trash_bag"
+  },
+  "render_type": "cutout"
+}

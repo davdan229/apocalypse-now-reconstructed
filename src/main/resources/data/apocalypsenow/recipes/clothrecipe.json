@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:textilethread"
+    },
+    "b": {
+      "item": "apocalypsenow:needle"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:cloth",
+    "count": 4
+  }
+}

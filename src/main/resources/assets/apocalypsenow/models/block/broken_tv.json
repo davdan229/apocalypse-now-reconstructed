@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/tv",
+  "textures": {
+    "all": "apocalypsenow:block/tv",
+    "particle": "apocalypsenow:block/tv",
+    "0": "apocalypsenow:block/tv"
+  },
+  "render_type": "solid"
+}

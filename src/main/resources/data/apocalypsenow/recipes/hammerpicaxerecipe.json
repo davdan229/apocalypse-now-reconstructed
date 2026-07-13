@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "c "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:pick"
+    },
+    "b": {
+      "item": "apocalypsenow:hammer"
+    },
+    "c": {
+      "item": "apocalypsenow:ducttape"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:hammer_pickaxe",
+    "count": 1
+  }
+}

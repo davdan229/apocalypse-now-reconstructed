@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:pack_of_milk_boxes"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:milk",
+    "count": 9
+  }
+}

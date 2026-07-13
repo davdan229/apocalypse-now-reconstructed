@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "dbc"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:coke"
+    },
+    "b": {
+      "item": "minecraft:iron_block"
+    },
+    "c": {
+      "item": "apocalypsenow:electrical_scrap"
+    },
+    "d": {
+      "item": "apocalypsenow:engineering_parts"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:coke_vending_machine",
+    "count": 1
+  }
+}

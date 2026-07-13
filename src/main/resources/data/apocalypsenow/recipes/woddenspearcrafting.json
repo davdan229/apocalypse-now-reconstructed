@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "cb ",
+    "b  "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:switch_knife"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    },
+    "c": {
+      "item": "apocalypsenow:ducttape"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:woddenspear",
+    "count": 1
+  }
+}

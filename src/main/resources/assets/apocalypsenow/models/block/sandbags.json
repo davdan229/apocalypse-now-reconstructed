@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "apocalypsenow:block/sandbags",
+    "particle": "apocalypsenow:block/sandbags"
+  },
+  "render_type": "solid"
+}

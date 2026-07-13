@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "apocalypsenow:bulletproof_vest_chestplate",
+    "apocalypsenow:civilian_body_vest_chestplate",
+    "apocalypsenow:military_bulletprooft_vest_chestplate",
+    "apocalypsenow:bvd_assault_vest_chestplate",
+    "apocalypsenow:specialoperationsvest_chestplate",
+    "apocalypsenow:press_bulletproof_vest_chestplate",
+    "apocalypsenow:desert_military_bulletproof_vest_chestplate",
+    "apocalypsenow:gas_tank_vest_chestplate",
+    "apocalypsenow:atlast_7_chestplate",
+    "apocalypsenow:fire_figther_helmet",
+    "apocalypsenow:fire_figther_chestplate",
+    "apocalypsenow:fire_figther_leggings",
+    "apocalypsenow:fire_figther_boots",
+    "apocalypsenow:juggernaut_helmet",
+    "apocalypsenow:juggernaut_chestplate",
+    "apocalypsenow:juggernaut_leggings",
+    "apocalypsenow:juggernaut_boots",
+    "apocalypsenow:advanced_hazmat_suit_helmet",
+    "apocalypsenow:advanced_hazmat_suit_chestplate",
+    "apocalypsenow:advanced_hazmat_suit_leggings",
+    "apocalypsenow:advanced_hazmat_suit_boots"
+  ]
+}

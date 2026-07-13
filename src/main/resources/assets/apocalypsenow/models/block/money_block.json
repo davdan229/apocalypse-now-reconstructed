@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "apocalypsenow:block/moneyblocktop",
+    "up": "apocalypsenow:block/moneyblocktop",
+    "north": "apocalypsenow:block/moneyblockfront",
+    "east": "apocalypsenow:block/moneyblocksides",
+    "south": "apocalypsenow:block/moneyblockfront",
+    "west": "apocalypsenow:block/moneyblocksides",
+    "particle": "apocalypsenow:block/moneyblocktop"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    " c"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:textilethread"
+    },
+    "b": {
+      "item": "minecraft:iron_axe"
+    },
+    "c": {
+      "item": "apocalypsenow:handlegripp"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:lumber_jack_axe",
+    "count": 1
+  }
+}

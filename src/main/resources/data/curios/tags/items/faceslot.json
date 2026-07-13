@@ -1,0 +1,18 @@
+{
+  "replace": "false",
+  "values": [
+    "minecraft:air",
+    "apocalypsenow:balaclava",
+    "apocalypsenow:blue_balaclava",
+    "apocalypsenow:red_balaclava",
+    "apocalypsenow:green_balaclava",
+    "apocalypsenow:forest_camo_balaclava",
+    "apocalypsenow:white_balaclava",
+    "apocalypsenow:pink_balaclava",
+    "apocalypsenow:snow_camo_balaclava",
+    "apocalypsenow:desert_camo_balaclava",
+    "apocalypsenow:urbanbalaclava",
+    "apocalypsenow:facemask",
+    "apocalypsenow:black_face_mask"
+  ]
+}

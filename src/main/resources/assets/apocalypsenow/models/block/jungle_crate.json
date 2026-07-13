@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "apocalypsenow:block/jungle_crate_botton",
+    "up": "apocalypsenow:block/jungle_crate_top",
+    "north": "apocalypsenow:block/jungle_crate",
+    "east": "apocalypsenow:block/jungle_crate",
+    "south": "apocalypsenow:block/jungle_crate",
+    "west": "apocalypsenow:block/jungle_crate",
+    "particle": "apocalypsenow:block/jungle_crate_botton"
+  },
+  "render_type": "solid"
+}

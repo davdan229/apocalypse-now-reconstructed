@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/bcoc",
+  "textures": {
+    "0": "apocalypsenow:block/bcoc",
+    "particle": "apocalypsenow:item/cocktelmolotov2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "apocalypsenow:block/barrelboton",
+    "up": "apocalypsenow:block/barreltop",
+    "north": "apocalypsenow:block/barrel",
+    "east": "apocalypsenow:block/barrel",
+    "south": "apocalypsenow:block/barrel",
+    "west": "apocalypsenow:block/barrel",
+    "particle": "apocalypsenow:block/barrelboton"
+  },
+  "render_type": "solid"
+}

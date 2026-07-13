@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:canned_pork"
+    },
+    {
+      "item": "apocalypsenow:can_opener"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:open_canned_pork",
+    "count": 1
+  }
+}

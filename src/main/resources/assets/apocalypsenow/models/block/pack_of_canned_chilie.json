@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "apocalypsenow:block/canned_pack_botton",
+    "up": "apocalypsenow:block/canned_pack_top",
+    "north": "apocalypsenow:block/teste_canned_pack",
+    "east": "apocalypsenow:block/teste_canned_pack",
+    "south": "apocalypsenow:block/teste_canned_pack",
+    "west": "apocalypsenow:block/teste_canned_pack",
+    "particle": "apocalypsenow:block/canned_pack_botton"
+  },
+  "render_type": "solid"
+}

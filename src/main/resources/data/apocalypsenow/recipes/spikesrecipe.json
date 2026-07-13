@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "apocalypsenow:rock"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:spikeswall",
+    "count": 1
+  }
+}

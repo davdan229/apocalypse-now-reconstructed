@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " ac"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:polyester"
+    },
+    "b": {
+      "item": "apocalypsenow:biohazard_helmet"
+    },
+    "c": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:level_a_hazmatsuit_helmet",
+    "count": 1
+  }
+}

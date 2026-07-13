@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:leather"
+    },
+    {
+      "item": "apocalypsenow:mo4_forest_camo_helmet"
+    },
+    {
+      "item": "minecraft:leather"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:mo_4gasmaskfaceadaptationforestcamo",
+    "count": 1
+  }
+}

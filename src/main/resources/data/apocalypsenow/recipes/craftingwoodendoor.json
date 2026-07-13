@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:plank_door"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:reinforced_wooden_door",
+    "count": 1
+  }
+}

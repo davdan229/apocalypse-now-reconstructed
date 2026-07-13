@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    " b ",
+    "cbd"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:glassbottle_2"
+    },
+    "b": {
+      "item": "minecraft:potato"
+    },
+    "c": {
+      "item": "minecraft:wheat"
+    },
+    "d": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:vodka",
+    "count": 1
+  }
+}

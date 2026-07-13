@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "apocalypsenow:item/plane_door"
+  },
+  "render_type": "translucent"
+}

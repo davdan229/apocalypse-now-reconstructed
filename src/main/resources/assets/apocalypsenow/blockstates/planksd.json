@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apocalypsenow:block/planksd"
+    },
+    "facing=east": {
+      "model": "apocalypsenow:block/planksd",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypsenow:block/planksd",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypsenow:block/planksd",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "apocalypsenow:block/planksd",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "apocalypsenow:block/planksd",
+      "x": 90
+    }
+  }
+}

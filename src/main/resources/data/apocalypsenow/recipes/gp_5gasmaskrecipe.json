@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:polyester"
+    },
+    "b": {
+      "item": "minecraft:glass_pane"
+    },
+    "c": {
+      "item": "apocalypsenow:breathingfiltermodule"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:rusty_helmet",
+    "count": 1
+  }
+}

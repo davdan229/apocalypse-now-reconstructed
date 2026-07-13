@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/milistod",
+  "textures": {
+    "all": "apocalypsenow:block/milistodesert",
+    "particle": "apocalypsenow:block/milistodesert",
+    "0": "apocalypsenow:block/milistodesert"
+  },
+  "render_type": "solid"
+}

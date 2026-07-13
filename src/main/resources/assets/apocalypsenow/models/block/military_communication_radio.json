@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/militarc",
+  "textures": {
+    "all": "apocalypsenow:block/militaryc",
+    "particle": "apocalypsenow:block/militaryc",
+    "0": "apocalypsenow:block/militaryc"
+  },
+  "render_type": "solid"
+}

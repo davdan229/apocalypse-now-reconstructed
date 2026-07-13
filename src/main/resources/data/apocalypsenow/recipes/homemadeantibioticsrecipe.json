@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone"
+    },
+    "b": {
+      "item": "minecraft:honeycomb"
+    },
+    "c": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:homemadeantibiotics",
+    "count": 1
+  }
+}

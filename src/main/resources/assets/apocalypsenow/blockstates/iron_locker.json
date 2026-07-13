@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apocalypsenow:block/iron_locker"
+    },
+    "facing=east": {
+      "model": "apocalypsenow:block/iron_locker",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypsenow:block/iron_locker",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypsenow:block/iron_locker",
+      "y": 270
+    }
+  }
+}

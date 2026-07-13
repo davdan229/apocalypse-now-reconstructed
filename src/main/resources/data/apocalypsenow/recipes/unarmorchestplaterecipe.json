@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bab",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:polyester"
+    },
+    "b": {
+      "item": "apocalypsenow:plasticplate"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:un_armor_chestplate",
+    "count": 1
+  }
+}

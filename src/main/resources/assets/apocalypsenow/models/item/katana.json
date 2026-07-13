@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/katana",
+  "textures": {
+    "0": "apocalypsenow:block/katana3",
+    "particle": "apocalypsenow:item/espetodechurrasco"
+  }
+}

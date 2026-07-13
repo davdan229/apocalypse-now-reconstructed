@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "apocalypsenow:baseball_bat"
+  },
+  "base": {
+    "item": "apocalypsenow:electrical_module"
+  },
+  "addition": {
+    "item": "apocalypsenow:engineering_parts"
+  },
+  "result": {
+    "item": "apocalypsenow:electrical_baseball_bat"
+  }
+}

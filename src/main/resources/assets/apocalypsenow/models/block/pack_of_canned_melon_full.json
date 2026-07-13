@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "apocalypsenow:block/canned_pack_botton",
+    "top": "apocalypsenow:block/canned_pack_top",
+    "side": "apocalypsenow:block/canned_melon"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:white_dye"
+    },
+    "b": {
+      "item": "apocalypsenow:mo4_gas_mask_helmet"
+    },
+    "c": {
+      "item": "minecraft:yellow_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:mo4_mud_camo_helmet",
+    "count": 1
+  }
+}

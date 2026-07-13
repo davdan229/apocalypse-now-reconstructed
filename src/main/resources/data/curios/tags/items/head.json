@@ -1,0 +1,26 @@
+{
+  "replace": "false",
+  "values": [
+    "minecraft:air",
+    "apocalypsenow:mo_4gasmaskfaceadaptation",
+    "apocalypsenow:mo_4gasmaskfaceadaptationmudcamo",
+    "apocalypsenow:mo_4gasmaskfaceadaptationforestcamo",
+    "apocalypsenow:pilot_headsetb",
+    "apocalypsenow:military_pilotheadset",
+    "apocalypsenow:safety_headphones",
+    "apocalypsenow:ski_goggles",
+    "apocalypsenow:ps_31nvg",
+    "apocalypsenow:nv_8160",
+    "apocalypsenow:bandana",
+    "apocalypsenow:black_bandana",
+    "apocalypsenow:blue_bandana",
+    "apocalypsenow:red_bandana",
+    "apocalypsenow:green_bandana",
+    "apocalypsenow:pink_bandana",
+    "apocalypsenow:sunglasses",
+    "apocalypsenow:red_sunglasses",
+    "apocalypsenow:glasses",
+    "apocalypsenow:stylized_glasses",
+    "apocalypsenow:bunnyears"
+  ]
+}

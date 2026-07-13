@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_open",
+  "textures": {
+    "texture": "apocalypsenow:block/vent_cover",
+    "particle": "apocalypsenow:block/vent_cover"
+  },
+  "render_type": "cutout"
+}

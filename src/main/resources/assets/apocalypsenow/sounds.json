@@ -1,0 +1,122 @@
+{
+  "beartrap": {
+    "sounds": [
+      {
+        "name": "apocalypsenow:bear-trap-103800",
+        "stream": false
+      }
+    ]
+  },
+  "canopener": {
+    "sounds": [
+      {
+        "name": "apocalypsenow:can_opener",
+        "stream": false
+      }
+    ]
+  },
+  "zip": {
+    "sounds": [
+      {
+        "name": "apocalypsenow:zipper-43841",
+        "stream": false
+      }
+    ]
+  },
+  "unzip": {
+    "sounds": [
+      {
+        "name": "apocalypsenow:unzip-mid-35906",
+        "stream": false
+      }
+    ]
+  },
+  "throw_effect": {
+    "sounds": [
+      {
+        "name": "apocalypsenow:movement-swipe-whoosh-2-186576",
+        "stream": false
+      }
+    ]
+  },
+  "trash_breaking": {
+    "sounds": [
+      {
+        "name": "apocalypsenow:trash_breaking_1",
+        "stream": false
+      }
+    ]
+  },
+  "trash_place": {
+    "sounds": [
+      {
+        "name": "apocalypsenow:trash_place_1",
+        "stream": false
+      }
+    ]
+  },
+  "trash_walk": {
+    "sounds": [
+      {
+        "name": "apocalypsenow:trash_walk_1",
+        "stream": false
+      }
+    ]
+  },
+  "chainsaw_new": {
+    "sounds": [
+      {
+        "name": "apocalypsenow:538153-chainsaw-close-revving-02-01",
+        "stream": false
+      }
+    ]
+  },
+  "nv_on": {
+    "sounds": [
+      {
+        "name": "apocalypsenow:20240504150242",
+        "stream": false
+      }
+    ]
+  },
+  "button-click": {
+    "sounds": [
+      {
+        "name": "apocalypsenow:20240504152112",
+        "stream": false
+      }
+    ]
+  },
+  "blipblip": {
+    "sounds": [
+      {
+        "name": "apocalypsenow:125785-walkie_talkie_or_two-way_turning_off_with_a_beep",
+        "stream": false
+      }
+    ]
+  },
+  "pepperspray": {
+    "sounds": [
+      {
+        "name": "apocalypsenow:249570-aerosol_spray_5",
+        "stream": false
+      }
+    ]
+  },
+  "nailgun": {
+    "sounds": [
+      {
+        "name": "apocalypsenow:247104-nailgun-07",
+        "stream": false
+      }
+    ]
+  },
+  "coins": {
+    "sounds": [
+      {
+        "name": "apocalypsenow:coins-dropped-ni-sound-1-1-00-00",
+        "stream": false
+      }
+    ]
+  }
+}

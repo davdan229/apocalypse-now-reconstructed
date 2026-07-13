@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:scrapmetal"
+    },
+    "b": {
+      "item": "minecraft:iron_axe"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:hatchet",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:broken_plasma_tv"
+    },
+    {
+      "item": "apocalypsenow:drill"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:electrical_scrap",
+    "count": 3
+  }
+}

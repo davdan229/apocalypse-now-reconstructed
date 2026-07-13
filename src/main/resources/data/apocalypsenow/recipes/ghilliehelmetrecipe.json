@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:leaves"
+    },
+    "b": {
+      "item": "apocalypsenow:cloth"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:ghilliesuit_helmet",
+    "count": 1
+  }
+}

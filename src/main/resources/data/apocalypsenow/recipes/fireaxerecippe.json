@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    " cd",
+    "c  "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:glue"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "apocalypsenow:handlegripp"
+    },
+    "d": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:fire_axe",
+    "count": 1
+  }
+}

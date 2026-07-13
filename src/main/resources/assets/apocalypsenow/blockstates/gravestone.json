@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apocalypsenow:block/gravestone"
+    },
+    "facing=east": {
+      "model": "apocalypsenow:block/gravestone",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypsenow:block/gravestone",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypsenow:block/gravestone",
+      "y": 270
+    }
+  }
+}

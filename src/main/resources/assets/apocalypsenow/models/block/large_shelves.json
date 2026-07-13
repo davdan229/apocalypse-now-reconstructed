@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/largeshelvese",
+  "textures": {
+    "all": "apocalypsenow:block/largeshelves",
+    "particle": "apocalypsenow:block/largeshelves",
+    "0": "apocalypsenow:block/largeshelves"
+  },
+  "render_type": "solid"
+}

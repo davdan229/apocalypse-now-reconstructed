@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:fire_module"
+    },
+    "b": {
+      "item": "apocalypsenow:kevlar"
+    },
+    "c": {
+      "item": "minecraft:leather_chestplate"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:gas_tank_vest_chestplate",
+    "count": 1
+  }
+}

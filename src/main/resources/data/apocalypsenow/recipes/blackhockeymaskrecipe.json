@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "ccc",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:leather"
+    },
+    "b": {
+      "item": "minecraft:black_dye"
+    },
+    "c": {
+      "item": "apocalypsenow:plasticplate"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:blackhockeymask_helmet",
+    "count": 1
+  }
+}

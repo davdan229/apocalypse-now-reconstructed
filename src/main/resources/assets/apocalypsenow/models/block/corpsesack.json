@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/corpse_sack",
+  "textures": {
+    "all": "apocalypsenow:block/corpse_sack",
+    "particle": "apocalypsenow:block/corpse_sack",
+    "0": "apocalypsenow:block/corpse_sack"
+  },
+  "render_type": "solid"
+}

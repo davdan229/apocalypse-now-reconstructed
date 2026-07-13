@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:electrical_scrap"
+    },
+    "c": {
+      "tag": "minecraft:planks"
+    },
+    "d": {
+      "item": "apocalypsenow:engineering_parts"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:brokenoldradio",
+    "count": 1
+  }
+}

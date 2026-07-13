@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "apocalypsenow:block/barreiradeareiabaixo",
+    "up": "apocalypsenow:block/barreiradeareiacima",
+    "north": "apocalypsenow:block/barreiradeareialados",
+    "east": "apocalypsenow:block/barreiradeareialados",
+    "south": "apocalypsenow:block/barreiradeareialados",
+    "west": "apocalypsenow:block/barreiradeareialados",
+    "particle": "apocalypsenow:block/barreiradeareiabaixo"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/healthkit",
+  "textures": {
+    "0": "apocalypsenow:block/healthkit",
+    "particle": "apocalypsenow:item/medikit"
+  }
+}

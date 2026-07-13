@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/vententrance",
+  "textures": {
+    "all": "apocalypsenow:block/venconection",
+    "particle": "apocalypsenow:block/venconection",
+    "1": "apocalypsenow:block/venconection"
+  },
+  "render_type": "solid"
+}

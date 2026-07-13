@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/tool",
+  "textures": {
+    "all": "apocalypsenow:block/mechanicstop",
+    "particle": "apocalypsenow:block/mechanicstop",
+    "1": "apocalypsenow:block/tool"
+  },
+  "render_type": "cutout"
+}

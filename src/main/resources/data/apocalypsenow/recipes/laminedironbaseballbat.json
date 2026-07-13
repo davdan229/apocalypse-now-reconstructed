@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:iron_baseball_bat"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:laminated_iron_baseball_bat",
+    "count": 1
+  }
+}

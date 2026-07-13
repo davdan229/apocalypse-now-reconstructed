@@ -1,0 +1,12 @@
+{
+  "type": "apocalypsenow:legacy_smithing",
+  "base": {
+    "item": "apocalypsenow:machete"
+  },
+  "addition": {
+    "item": "apocalypsenow:electrical_module"
+  },
+  "result": {
+    "item": "apocalypsenow:eletrical_machete"
+  }
+}

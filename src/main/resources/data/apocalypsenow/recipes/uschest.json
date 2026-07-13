@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:green_dye"
+    },
+    "b": {
+      "item": "minecraft:iron_chestplate"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:us_army_chestplate",
+    "count": 1
+  }
+}

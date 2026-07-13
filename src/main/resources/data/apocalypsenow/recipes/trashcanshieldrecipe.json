@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:trash_bin"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:trash_shield",
+    "count": 1
+  }
+}

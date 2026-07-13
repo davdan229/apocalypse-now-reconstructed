@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apocalypsenow:block/mechanics_tool_chest"
+    },
+    "facing=east": {
+      "model": "apocalypsenow:block/mechanics_tool_chest",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypsenow:block/mechanics_tool_chest",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypsenow:block/mechanics_tool_chest",
+      "y": 270
+    }
+  }
+}

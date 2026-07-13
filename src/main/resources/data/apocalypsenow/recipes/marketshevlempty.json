@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:market_shelves"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:empty_market_shelves",
+    "count": 1
+  }
+}

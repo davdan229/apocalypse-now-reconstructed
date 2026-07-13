@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:kevlar"
+    },
+    "b": {
+      "item": "apocalypsenow:reinforced_armor_plate"
+    },
+    "c": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:juggernaut_boots",
+    "count": 1
+  }
+}

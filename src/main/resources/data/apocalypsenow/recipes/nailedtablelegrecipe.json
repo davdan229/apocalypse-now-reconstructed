@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:table_leg"
+    },
+    {
+      "item": "apocalypsenow:nailbox"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:nailed_table_leg",
+    "count": 1
+  }
+}

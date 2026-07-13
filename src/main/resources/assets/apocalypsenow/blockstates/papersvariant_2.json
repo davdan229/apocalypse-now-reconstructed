@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apocalypsenow:block/papersvariant_2"
+    },
+    "facing=east": {
+      "model": "apocalypsenow:block/papersvariant_2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypsenow:block/papersvariant_2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypsenow:block/papersvariant_2",
+      "y": 270
+    }
+  }
+}

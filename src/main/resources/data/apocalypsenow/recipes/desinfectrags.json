@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:rags"
+    },
+    {
+      "item": "apocalypsenow:alcohol"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:cleanrags",
+    "count": 1
+  }
+}

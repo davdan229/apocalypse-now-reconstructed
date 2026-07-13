@@ -1,0 +1,63 @@
+package net.mcreator.apocalypsenow.client.particle;
+
+import net.minecraft.client.multiplayer.ClientLevel;
+import net.minecraft.client.particle.Particle;
+import net.minecraft.client.particle.ParticleProvider;
+import net.minecraft.client.particle.ParticleRenderType;
+import net.minecraft.client.particle.SpriteSet;
+import net.minecraft.client.particle.TextureSheetParticle;
+import net.minecraft.core.particles.SimpleParticleType;
+import net.minecraftforge.api.distmarker.Dist;
+import net.minecraftforge.api.distmarker.OnlyIn;
+
+@OnlyIn(Dist.CLIENT)
+public class Smoke2Particle extends TextureSheetParticle {
+   private final SpriteSet spriteSet;
+   private float angularVelocity;
+   private float angularAcceleration;
+
+   public static Smoke2Particle.Smoke2ParticleProvider provider(SpriteSet spriteSet) {
+      return new Smoke2Particle.Smoke2ParticleProvider(spriteSet);
+   }
+
+   protected Smoke2Particle(ClientLevel world, double x, double y, double z, double vx, double vy, double vz, SpriteSet spriteSet) {
+      super(world, x, y, z);
+      this.spriteSet = spriteSet;
+      this.setSize(0.5F, 0.5F);
+      this.quadSize *= 0.2F;
+      this.lifetime = 5;
+      this.gravity = 0.1F;
+      this.hasPhysics = true;
+      this.xd = vx * 1.6;
+      this.yd = vy * 1.6;
+      this.zd = vz * 1.6;
+      this.angularVelocity = 0.0F;
+      this.angularAcceleration = 1.0F;
+      this.pickSprite(spriteSet);
+   }
+
+   @Override
+   public ParticleRenderType getRenderType() {
+      return ParticleRenderType.PARTICLE_SHEET_OPAQUE;
+   }
+
+   @Override
+   public void tick() {
+      super.tick();
+      this.oRoll = this.roll;
+      this.roll = this.roll + this.angularVelocity;
+      this.angularVelocity = this.angularVelocity + this.angularAcceleration;
+   }
+
+   public static class Smoke2ParticleProvider implements ParticleProvider<SimpleParticleType> {
+      private final SpriteSet spriteSet;
+
+      public Smoke2ParticleProvider(SpriteSet spriteSet) {
+         this.spriteSet = spriteSet;
+      }
+
+      public Particle createParticle(SimpleParticleType typeIn, ClientLevel worldIn, double x, double y, double z, double xSpeed, double ySpeed, double zSpeed) {
+         return new Smoke2Particle(worldIn, x, y, z, xSpeed, ySpeed, zSpeed, this.spriteSet);
+      }
+   }
+}

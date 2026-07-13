@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aba",
+    "aca"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:polyester"
+    },
+    "b": {
+      "item": "minecraft:green_wool"
+    },
+    "c": {
+      "item": "apocalypsenow:textilethread"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:helicopter_chestplate",
+    "count": 1
+  }
+}

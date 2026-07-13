@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "apocalypsenow:block/sandbags",
+    "top": "apocalypsenow:block/sandbags",
+    "side": "apocalypsenow:block/sandbags"
+  },
+  "render_type": "solid"
+}

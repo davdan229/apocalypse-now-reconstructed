@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:medium_quality_cigarette"
+    },
+    {
+      "item": "apocalypsenow:medium_quality_cigarette"
+    },
+    {
+      "item": "apocalypsenow:medium_quality_cigarette"
+    },
+    {
+      "item": "apocalypsenow:medium_quality_cigarette"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "apocalypsenow:medium_quality_cigarette"
+    },
+    {
+      "item": "apocalypsenow:medium_quality_cigarette"
+    },
+    {
+      "item": "apocalypsenow:medium_quality_cigarette"
+    },
+    {
+      "item": "apocalypsenow:medium_quality_cigarette"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:medium_quality_cigarettes",
+    "count": 1
+  }
+}

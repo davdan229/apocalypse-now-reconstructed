@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aba",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:ironhandlegripp"
+    },
+    "b": {
+      "item": "apocalypsenow:nailbox"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:metal_bars",
+    "count": 1
+  }
+}

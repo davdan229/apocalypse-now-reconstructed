@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    " b ",
+    "cde"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:glassbottle"
+    },
+    "b": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "c": {
+      "item": "minecraft:wheat"
+    },
+    "d": {
+      "item": "minecraft:wheat"
+    },
+    "e": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:whisky",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:bloodyrags"
+    },
+    {
+      "item": "apocalypsenow:cleanbucket"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:rags",
+    "count": 1
+  }
+}

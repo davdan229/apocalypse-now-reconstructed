@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apocalypsenow:block/marketfridge"
+    },
+    "facing=east": {
+      "model": "apocalypsenow:block/marketfridge",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypsenow:block/marketfridge",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypsenow:block/marketfridge",
+      "y": 270
+    }
+  }
+}

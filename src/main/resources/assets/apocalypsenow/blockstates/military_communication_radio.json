@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apocalypsenow:block/military_communication_radio"
+    },
+    "facing=east": {
+      "model": "apocalypsenow:block/military_communication_radio",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypsenow:block/military_communication_radio",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypsenow:block/military_communication_radio",
+      "y": 270
+    }
+  }
+}

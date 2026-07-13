@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/minaterrestre",
+  "textures": {
+    "all": "apocalypsenow:block/minaterrestre",
+    "particle": "apocalypsenow:block/minaterrestre",
+    "0": "apocalypsenow:block/minaterrestre"
+  },
+  "render_type": "solid"
+}

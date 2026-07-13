@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "b": {
+      "item": "minecraft:gray_stained_glass_pane"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:apartment_door",
+    "count": 1
+  }
+}

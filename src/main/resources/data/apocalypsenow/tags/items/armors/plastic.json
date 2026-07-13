@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "apocalypsenow:black_football_armor_helmet",
+    "apocalypsenow:black_football_armor_chestplate",
+    "apocalypsenow:black_football_armor_leggings",
+    "apocalypsenow:black_football_armor_boots",
+    "apocalypsenow:red_football_armor_helmet",
+    "apocalypsenow:red_football_armor_chestplate",
+    "apocalypsenow:red_football_armor_leggings",
+    "apocalypsenow:red_football_armor_boots",
+    "apocalypsenow:yellow_football_armor_helmet",
+    "apocalypsenow:yellow_football_armor_chestplate",
+    "apocalypsenow:yellow_football_armor_leggings",
+    "apocalypsenow:yellow_football_armor_boots",
+    "apocalypsenow:blue_football_armor_helmet",
+    "apocalypsenow:blue_football_armor_chestplate",
+    "apocalypsenow:blue_football_armor_leggings",
+    "apocalypsenow:blue_football_armor_boots",
+    "apocalypsenow:hockey_helmet",
+    "apocalypsenow:hockey_chestplate",
+    "apocalypsenow:hockey_leggings",
+    "apocalypsenow:hockey_boots",
+    "apocalypsenow:hardhat_helmet",
+    "apocalypsenow:officer_hard_hat_helmet",
+    "apocalypsenow:construction_helmet"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:plasticplate"
+    },
+    "b": {
+      "item": "minecraft:black_stained_glass_pane"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:swatriotcontrol_helmet",
+    "count": 1
+  }
+}

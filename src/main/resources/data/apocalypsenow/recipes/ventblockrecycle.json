@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:vent"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:ventblock",
+    "count": 1
+  }
+}

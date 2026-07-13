@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/reta",
+  "textures": {
+    "0": "apocalypsenow:block/reta",
+    "particle": "apocalypsenow:item/slegehammer"
+  }
+}

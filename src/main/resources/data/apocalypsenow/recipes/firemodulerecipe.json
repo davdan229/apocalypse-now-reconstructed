@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "bcd",
+    " ef"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:scrapmetal"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "d": {
+      "item": "apocalypsenow:copperwire"
+    },
+    "e": {
+      "item": "apocalypsenow:oil_canister"
+    },
+    "f": {
+      "item": "apocalypsenow:engineering_parts"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:fire_module",
+    "count": 1
+  }
+}

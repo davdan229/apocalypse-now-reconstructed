@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "spawners": {
+    "type": "apocalypsenow:crawler_3",
+    "weight": 9,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

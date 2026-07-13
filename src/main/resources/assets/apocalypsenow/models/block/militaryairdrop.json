@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "apocalypsenow:block/militaryairdropbotton",
+    "up": "apocalypsenow:block/militaryairdroptop",
+    "north": "apocalypsenow:block/militaryairdropfront",
+    "east": "apocalypsenow:block/militarydropside",
+    "south": "apocalypsenow:block/militaryairdropfront",
+    "west": "apocalypsenow:block/militarydropside",
+    "particle": "apocalypsenow:block/militaryairdropbotton"
+  },
+  "render_type": "solid"
+}

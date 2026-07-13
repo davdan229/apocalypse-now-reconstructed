@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:gunpowder_can"
+    },
+    "b": {
+      "item": "minecraft:redstone"
+    },
+    "c": {
+      "item": "minecraft:tripwire_hook"
+    },
+    "d": {
+      "item": "minecraft:tnt"
+    },
+    "e": {
+      "item": "apocalypsenow:nailbox"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:tripwire_bomb",
+    "count": 1
+  }
+}

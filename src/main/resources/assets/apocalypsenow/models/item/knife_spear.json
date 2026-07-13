@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/lancafaca",
+  "textures": {
+    "0": "apocalypsenow:block/lancafaca",
+    "particle": "apocalypsenow:item/gravetocomespinhos"
+  }
+}

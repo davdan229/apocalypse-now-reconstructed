@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:lime_dye"
+    },
+    "b": {
+      "item": "apocalypsenow:mo4_gas_mask_helmet"
+    },
+    "c": {
+      "item": "minecraft:green_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:mo4_forest_camo_helmet",
+    "count": 1
+  }
+}

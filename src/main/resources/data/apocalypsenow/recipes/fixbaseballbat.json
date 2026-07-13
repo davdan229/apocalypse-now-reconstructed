@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:broken_baseball_bat"
+    },
+    "b": {
+      "item": "apocalypsenow:ducttape"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:fixed_baseball_bat",
+    "count": 1
+  }
+}

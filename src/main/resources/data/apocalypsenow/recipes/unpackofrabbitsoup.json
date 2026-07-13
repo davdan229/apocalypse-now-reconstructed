@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:pack_of_canned_rabbit_soup"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:canned_rabbit_soup",
+    "count": 9
+  }
+}

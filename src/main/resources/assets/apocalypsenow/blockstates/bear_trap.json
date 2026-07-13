@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "apocalypsenow:block/bear_trap" },
+    "facing=east": { "model": "apocalypsenow:block/bear_trap", "y": 90 },
+    "facing=south": { "model": "apocalypsenow:block/bear_trap", "y": 180 },
+    "facing=west": { "model": "apocalypsenow:block/bear_trap", "y": 270 }
+  }
+}

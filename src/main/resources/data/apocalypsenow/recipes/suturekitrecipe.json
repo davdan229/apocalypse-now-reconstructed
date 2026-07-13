@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def",
+    "ghi"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:textilethread"
+    },
+    "c": {
+      "item": "apocalypsenow:bloodbag"
+    },
+    "d": {
+      "item": "apocalypsenow:alcohol"
+    },
+    "e": {
+      "item": "apocalypsenow:bandage"
+    },
+    "f": {
+      "item": "apocalypsenow:scalpel"
+    },
+    "g": {
+      "item": "apocalypsenow:stringandneedle"
+    },
+    "h": {
+      "tag": "apocalypsenow:tool/scissors"
+    },
+    "i": {
+      "item": "apocalypsenow:surgicalclamps"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:suturekit",
+    "count": 1
+  }
+}

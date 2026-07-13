@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " aa",
+    "bcd",
+    "bcd"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:electrical_scrap"
+    },
+    "b": {
+      "item": "apocalypsenow:engineering_parts"
+    },
+    "c": {
+      "item": "minecraft:iron_block"
+    },
+    "d": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:marketfridge",
+    "count": 1
+  }
+}

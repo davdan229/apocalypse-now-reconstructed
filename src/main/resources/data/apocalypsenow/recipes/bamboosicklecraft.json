@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "bc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:bamboo"
+    },
+    "c": {
+      "item": "apocalypsenow:textilethread"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:bamboo_sickle",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "apocalypsenow:legacy_smithing",
+  "base": {
+    "item": "apocalypsenow:machete"
+  },
+  "addition": {
+    "item": "apocalypsenow:fire_module"
+  },
+  "result": {
+    "item": "apocalypsenow:fire_module_machete"
+  }
+}

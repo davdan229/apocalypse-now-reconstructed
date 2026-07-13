@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apocalypsenow:block/medicine_boxes"
+    },
+    "facing=east": {
+      "model": "apocalypsenow:block/medicine_boxes",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypsenow:block/medicine_boxes",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypsenow:block/medicine_boxes",
+      "y": 270
+    }
+  }
+}

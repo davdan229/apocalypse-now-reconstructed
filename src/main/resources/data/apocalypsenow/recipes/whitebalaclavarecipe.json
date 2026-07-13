@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:white_dye"
+    },
+    {
+      "item": "apocalypsenow:cloth"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:white_balaclava",
+    "count": 1
+  }
+}

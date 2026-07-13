@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "edge": "apocalypsenow:block/irongrid",
+    "pane": "apocalypsenow:block/irongrid"
+  },
+  "render_type": "cutout_mipped"
+}

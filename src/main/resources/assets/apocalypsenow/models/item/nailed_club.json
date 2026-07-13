@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "apocalypsenow:item/taco_com_nails"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "cd",
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:scrapmetal"
+    },
+    "c": {
+      "item": "apocalypsenow:glass_door"
+    },
+    "d": {
+      "item": "apocalypsenow:electrical_scrap"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:electric_door",
+    "count": 1
+  }
+}

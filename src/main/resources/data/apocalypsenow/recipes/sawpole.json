@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    " bc",
+    "b  "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:sawi"
+    },
+    "b": {
+      "item": "apocalypsenow:handlegripp"
+    },
+    "c": {
+      "item": "apocalypsenow:nailbox"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:saw_pole",
+    "count": 1
+  }
+}

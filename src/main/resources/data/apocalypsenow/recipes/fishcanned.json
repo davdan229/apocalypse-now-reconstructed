@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cooked_cod"
+    },
+    "b": {
+      "item": "apocalypsenow:thincan"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:canned_fish",
+    "count": 1
+  }
+}

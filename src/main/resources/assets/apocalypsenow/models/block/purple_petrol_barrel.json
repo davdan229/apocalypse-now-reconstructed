@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "apocalypsenow:block/ppb",
+    "up": "apocalypsenow:block/ppbup",
+    "north": "apocalypsenow:block/purplepb",
+    "east": "apocalypsenow:block/purplepb",
+    "south": "apocalypsenow:block/purplepb",
+    "west": "apocalypsenow:block/purplepb",
+    "particle": "apocalypsenow:block/ppb"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "apocalypsenow:block/mossy_bricks",
+    "particle": "apocalypsenow:block/mossy_bricks"
+  },
+  "render_type": "solid"
+}

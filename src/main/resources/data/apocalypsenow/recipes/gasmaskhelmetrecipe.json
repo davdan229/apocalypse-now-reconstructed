@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "tag": "apocalypsenow:armorhelmets"
+    },
+    "b": {
+      "tag": "apocalypsenow:gasmask"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:gas_mask_helmet_helmet",
+    "count": 1
+  }
+}

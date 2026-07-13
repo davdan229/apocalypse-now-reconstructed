@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/trash_bin",
+  "textures": {
+    "all": "apocalypsenow:block/trash_can",
+    "particle": "apocalypsenow:block/trash_can",
+    "0": "apocalypsenow:block/trash_can"
+  },
+  "render_type": "solid"
+}

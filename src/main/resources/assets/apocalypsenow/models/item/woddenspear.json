@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/lancademadeira",
+  "textures": {
+    "0": "apocalypsenow:block/lancademadeira2",
+    "particle": "apocalypsenow:item/handlegrip"
+  }
+}

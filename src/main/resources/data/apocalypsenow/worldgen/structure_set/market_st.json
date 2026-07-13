@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "apocalypsenow:market_st",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 100,
+    "separation": 4,
+    "salt": 1039577583
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    "ba ",
+    "cd "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:scrapmetal"
+    },
+    "c": {
+      "item": "apocalypsenow:ironhandlegripp"
+    },
+    "d": {
+      "item": "apocalypsenow:plastic"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:expedition_knife",
+    "count": 1
+  }
+}

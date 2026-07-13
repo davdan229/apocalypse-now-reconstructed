@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/bomba",
+  "textures": {
+    "0": "apocalypsenow:block/bomba2",
+    "particle": "apocalypsenow:item/bombaimprovisada"
+  }
+}

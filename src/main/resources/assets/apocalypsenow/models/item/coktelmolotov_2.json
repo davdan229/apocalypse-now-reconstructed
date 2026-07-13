@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/wcoc",
+  "textures": {
+    "0": "apocalypsenow:block/wcoc",
+    "particle": "apocalypsenow:item/cocktelmolotov"
+  }
+}

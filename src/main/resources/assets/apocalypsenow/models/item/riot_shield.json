@@ -1,0 +1,15 @@
+{
+  "parent": "apocalypsenow:custom/riotshield",
+  "textures": {
+    "0": "apocalypsenow:block/riotshield",
+    "particle": "apocalypsenow:item/adaga"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "blocking": 1
+      },
+      "model": "apocalypsenow:item/riot_shield_0"
+    }
+  ]
+}

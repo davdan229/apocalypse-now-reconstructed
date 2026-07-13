@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apocalypsenow:block/corpsesack"
+    },
+    "facing=east": {
+      "model": "apocalypsenow:block/corpsesack",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypsenow:block/corpsesack",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypsenow:block/corpsesack",
+      "y": 270
+    }
+  }
+}

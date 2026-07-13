@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:human_flesh"
+    },
+    {
+      "item": "apocalypsenow:hydrochloricacid"
+    },
+    {
+      "item": "apocalypsenow:syringe"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:adrenalinepot",
+    "count": 1
+  }
+}

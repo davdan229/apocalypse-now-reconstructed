@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/colher",
+  "textures": {
+    "0": "apocalypsenow:block/colher",
+    "particle": "apocalypsenow:block/colher"
+  }
+}

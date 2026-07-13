@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:reinforced_armor_plate"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:swat_helmet",
+    "count": 1
+  }
+}

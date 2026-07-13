@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "apocalypsenow:block/explosivebarreldown",
+    "up": "apocalypsenow:block/explosivebarreltop",
+    "north": "apocalypsenow:block/explosivebarrelfront",
+    "east": "apocalypsenow:block/explosivebarrel",
+    "south": "apocalypsenow:block/explosivebarrel",
+    "west": "apocalypsenow:block/explosivebarrel",
+    "particle": "apocalypsenow:block/explosivebarreldown"
+  },
+  "render_type": "cutout_mipped"
+}

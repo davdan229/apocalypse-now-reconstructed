@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:spikes"
+    },
+    {
+      "item": "apocalypsenow:iron_baseball_bat"
+    },
+    {
+      "item": "apocalypsenow:spikes"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:spiked_iron_baseball_bat",
+    "count": 1
+  }
+}

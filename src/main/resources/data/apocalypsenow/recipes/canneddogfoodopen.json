@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:dogs_food"
+    },
+    {
+      "item": "apocalypsenow:can_opener"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:open_dogs_food",
+    "count": 1
+  }
+}

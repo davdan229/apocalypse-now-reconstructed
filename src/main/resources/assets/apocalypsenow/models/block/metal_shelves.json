@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/iron_shelf_vazia",
+  "textures": {
+    "all": "apocalypsenow:block/metalshelf",
+    "particle": "apocalypsenow:block/metalshelf",
+    "0": "apocalypsenow:block/metalshelf"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:foam"
+    },
+    "b": {
+      "item": "minecraft:blue_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:blue_fighting_chestplate",
+    "count": 1
+  }
+}

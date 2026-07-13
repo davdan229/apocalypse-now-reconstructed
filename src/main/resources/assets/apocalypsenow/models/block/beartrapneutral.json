@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/beartrapa",
+  "textures": {
+    "all": "apocalypsenow:block/beartrap",
+    "particle": "apocalypsenow:block/beartrap",
+    "0": "apocalypsenow:block/beartrap"
+  },
+  "render_type": "cutout_mipped"
+}

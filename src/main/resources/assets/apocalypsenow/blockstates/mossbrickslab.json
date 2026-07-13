@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "apocalypsenow:block/mossbrickslab"
+    },
+    "type=top": {
+      "model": "apocalypsenow:block/mossbrickslab_top"
+    },
+    "type=double": {
+      "model": "apocalypsenow:block/mossbrickslab_full"
+    }
+  }
+}

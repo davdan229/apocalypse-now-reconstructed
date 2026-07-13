@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apocalypsenow:block/trashcann"
+    },
+    "facing=east": {
+      "model": "apocalypsenow:block/trashcann",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypsenow:block/trashcann",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypsenow:block/trashcann",
+      "y": 270
+    }
+  }
+}

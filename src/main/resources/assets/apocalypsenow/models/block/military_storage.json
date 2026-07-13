@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/milisto",
+  "textures": {
+    "all": "apocalypsenow:block/milisto",
+    "particle": "apocalypsenow:block/milisto",
+    "0": "apocalypsenow:block/milisto"
+  },
+  "render_type": "solid"
+}

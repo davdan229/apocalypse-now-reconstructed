@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/vent",
+  "textures": {
+    "all": "apocalypsenow:block/ventnew",
+    "particle": "apocalypsenow:block/ventnew",
+    "0": "apocalypsenow:block/ventnew"
+  },
+  "render_type": "solid"
+}

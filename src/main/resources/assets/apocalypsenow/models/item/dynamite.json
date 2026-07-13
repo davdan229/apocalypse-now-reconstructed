@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/tnt",
+  "textures": {
+    "0": "apocalypsenow:block/tnt",
+    "particle": "apocalypsenow:item/dinamite"
+  }
+}

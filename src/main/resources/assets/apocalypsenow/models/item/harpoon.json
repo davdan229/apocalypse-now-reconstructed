@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/harpoon",
+  "textures": {
+    "0": "apocalypsenow:block/harpoon",
+    "particle": "apocalypsenow:item/fish_knife"
+  }
+}

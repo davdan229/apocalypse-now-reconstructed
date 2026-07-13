@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "bc",
+    " c"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "apocalypsenow:ironhandlegripp"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:survival_axe",
+    "count": 1
+  }
+}

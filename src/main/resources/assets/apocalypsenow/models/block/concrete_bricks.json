@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "apocalypsenow:block/cbricks",
+    "particle": "apocalypsenow:block/cbricks"
+  },
+  "render_type": "solid"
+}

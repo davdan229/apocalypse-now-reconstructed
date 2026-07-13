@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/rockpile",
+  "textures": {
+    "all": "apocalypsenow:block/rcokpile",
+    "particle": "apocalypsenow:block/rcokpile",
+    "0": "apocalypsenow:block/rcokpile"
+  },
+  "render_type": "cutout_mipped"
+}

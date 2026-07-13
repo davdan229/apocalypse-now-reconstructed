@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone"
+    },
+    "b": {
+      "item": "minecraft:heavy_weighted_pressure_plate"
+    },
+    "c": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:land_mine",
+    "count": 1
+  }
+}

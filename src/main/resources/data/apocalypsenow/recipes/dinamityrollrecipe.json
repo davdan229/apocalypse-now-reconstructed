@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "ab",
+    "a "
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:dynamite"
+    },
+    "b": {
+      "item": "apocalypsenow:ducttape"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:dynamite_roll",
+    "count": 1
+  }
+}

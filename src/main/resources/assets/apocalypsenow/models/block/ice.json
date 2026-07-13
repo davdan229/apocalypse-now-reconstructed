@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/ice",
+  "textures": {
+    "all": "apocalypsenow:block/ice",
+    "particle": "apocalypsenow:block/ice",
+    "0": "apocalypsenow:block/ice"
+  },
+  "render_type": "translucent"
+}

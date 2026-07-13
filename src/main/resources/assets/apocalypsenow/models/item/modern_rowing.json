@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/remomoderno",
+  "textures": {
+    "0": "apocalypsenow:block/remomoderno",
+    "particle": "apocalypsenow:item/bluesimplebackpack"
+  }
+}

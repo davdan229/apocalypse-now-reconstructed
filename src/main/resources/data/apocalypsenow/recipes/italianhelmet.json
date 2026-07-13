@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:italian_tag"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:italian_bersaglieri_army_helmet",
+    "count": 1
+  }
+}

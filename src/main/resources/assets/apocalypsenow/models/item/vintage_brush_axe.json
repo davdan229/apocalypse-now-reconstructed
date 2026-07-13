@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/brush_axe_v",
+  "textures": {
+    "0": "apocalypsenow:block/brush_axe_v",
+    "particle": "apocalypsenow:item/brush_axe"
+  }
+}

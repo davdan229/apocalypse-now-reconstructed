@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "dbc"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:porpsi"
+    },
+    "b": {
+      "item": "minecraft:iron_block"
+    },
+    "c": {
+      "item": "apocalypsenow:electrical_scrap"
+    },
+    "d": {
+      "item": "apocalypsenow:engineering_parts"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:porpsi_vending_machine",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a",
+    "bc",
+    " d"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:salt"
+    },
+    "b": {
+      "item": "minecraft:redstone_block"
+    },
+    "c": {
+      "item": "minecraft:water_bucket"
+    },
+    "d": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:chlorine_dioxed",
+    "count": 1
+  }
+}

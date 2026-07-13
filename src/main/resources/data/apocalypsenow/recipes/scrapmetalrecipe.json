@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:can"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:scrapmetal",
+    "count": 2
+  }
+}

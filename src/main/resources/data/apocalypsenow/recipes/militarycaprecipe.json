@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "cde"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:polyester"
+    },
+    "b": {
+      "item": "minecraft:iron_nugget"
+    },
+    "c": {
+      "item": "minecraft:green_dye"
+    },
+    "d": {
+      "item": "minecraft:lime_dye"
+    },
+    "e": {
+      "item": "minecraft:brown_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:military_cap_helmet",
+    "count": 1
+  }
+}

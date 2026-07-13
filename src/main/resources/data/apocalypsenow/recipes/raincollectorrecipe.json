@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "ccc"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:nailbox"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "apocalypsenow:plank"
+    },
+    "d": {
+      "item": "apocalypsenow:trash"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:rain_collector",
+    "count": 1
+  }
+}

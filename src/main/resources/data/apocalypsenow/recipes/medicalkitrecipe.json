@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:planks"
+    },
+    "b": {
+      "item": "apocalypsenow:alcohol"
+    },
+    "c": {
+      "item": "apocalypsenow:bandage"
+    },
+    "d": {
+      "item": "apocalypsenow:scalpel"
+    },
+    "e": {
+      "tag": "apocalypsenow:tool/scissors"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:medicalkit",
+    "count": 1
+  }
+}

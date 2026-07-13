@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "apocalypsenow:log_with_stone"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:spike_log",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:highvaluemoneyblock"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:money_block",
+    "count": 9
+  }
+}

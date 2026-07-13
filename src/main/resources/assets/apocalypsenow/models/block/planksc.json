@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/planksc",
+  "textures": {
+    "all": "apocalypsenow:block/plankss",
+    "particle": "apocalypsenow:block/plankss",
+    "0": "apocalypsenow:block/plankss"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "apocalypsenow:block/mangrove_botton",
+    "up": "apocalypsenow:block/mangrove_top",
+    "north": "apocalypsenow:block/mangrove_crate",
+    "east": "apocalypsenow:block/mangrove_crate",
+    "south": "apocalypsenow:block/mangrove_crate",
+    "west": "apocalypsenow:block/mangrove_crate",
+    "particle": "apocalypsenow:block/mangrove_botton"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,26 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "apocalypsenow:item/money"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "apocalypsenow:money_moneyvalue4": 1
+      },
+      "model": "apocalypsenow:item/money_0"
+    },
+    {
+      "predicate": {
+        "apocalypsenow:money_moneyvalue4": 2
+      },
+      "model": "apocalypsenow:item/money_1"
+    },
+    {
+      "predicate": {
+        "apocalypsenow:money_moneyvalue4": 3
+      },
+      "model": "apocalypsenow:item/money_2"
+    }
+  ]
+}

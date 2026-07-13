@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aba",
+    "aca"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:cloth"
+    },
+    "b": {
+      "item": "minecraft:orange_dye"
+    },
+    "c": {
+      "item": "apocalypsenow:textilethread"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:hunting_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:canned_beans"
+    },
+    {
+      "item": "apocalypsenow:can_opener"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:open_canned_beans",
+    "count": 1
+  }
+}

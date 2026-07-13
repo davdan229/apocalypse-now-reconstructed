@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aab",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:sunflower"
+    },
+    "b": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "c": {
+      "item": "minecraft:bucket"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:oil_canister",
+    "count": 1
+  }
+}

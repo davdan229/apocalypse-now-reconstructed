@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aaa",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:light_blue_stained_glass_pane"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:welding_mask_helmet",
+    "count": 1
+  }
+}

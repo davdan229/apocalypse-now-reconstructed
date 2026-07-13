@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bone"
+    },
+    {
+      "item": "minecraft:rotten_flesh"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "item": "apocalypsenow:trash"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:fertilizer",
+    "count": 1
+  }
+}

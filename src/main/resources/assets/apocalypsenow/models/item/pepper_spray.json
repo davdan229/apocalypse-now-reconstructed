@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/spraypimenta",
+  "textures": {
+    "0": "apocalypsenow:block/pimentaspray",
+    "particle": "apocalypsenow:item/deodorant"
+  }
+}

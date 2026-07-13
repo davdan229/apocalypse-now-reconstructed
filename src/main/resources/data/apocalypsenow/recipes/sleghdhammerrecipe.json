@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    " bc",
+    "cb "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:black_concrete"
+    },
+    "b": {
+      "item": "apocalypsenow:handlegripp"
+    },
+    "c": {
+      "item": "minecraft:yellow_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:sledge_hammer",
+    "count": 1
+  }
+}

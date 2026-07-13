@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/wash",
+  "textures": {
+    "all": "apocalypsenow:block/washmachine",
+    "particle": "apocalypsenow:block/washmachine",
+    "0": "apocalypsenow:block/washmachine"
+  },
+  "render_type": "solid"
+}

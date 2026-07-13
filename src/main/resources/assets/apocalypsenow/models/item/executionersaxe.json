@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/machado_do_ex",
+  "textures": {
+    "missing": "apocalypsenow:block/machado_do_ex",
+    "particle": "apocalypsenow:item/expeditionmachete"
+  }
+}

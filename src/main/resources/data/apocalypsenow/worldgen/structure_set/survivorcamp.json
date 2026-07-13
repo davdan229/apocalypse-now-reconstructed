@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "apocalypsenow:survivorcamp",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 90,
+    "separation": 4,
+    "salt": 193823882
+  }
+}

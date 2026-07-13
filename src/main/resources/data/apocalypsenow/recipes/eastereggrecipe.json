@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:pink_dye"
+    },
+    "b": {
+      "item": "minecraft:cyan_dye"
+    },
+    "c": {
+      "item": "minecraft:egg"
+    },
+    "d": {
+      "item": "minecraft:red_dye"
+    },
+    "e": {
+      "item": "minecraft:yellow_dye"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:easteregg",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:sledgehammerr"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:iron_plate",
+    "count": 1
+  }
+}

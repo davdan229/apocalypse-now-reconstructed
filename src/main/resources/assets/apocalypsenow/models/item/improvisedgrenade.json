@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/prego",
+  "textures": {
+    "0": "apocalypsenow:block/prego",
+    "particle": "apocalypsenow:item/nailbomb"
+  }
+}

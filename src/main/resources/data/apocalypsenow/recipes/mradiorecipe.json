@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "deb",
+    "fgh"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stone_button"
+    },
+    "b": {
+      "item": "apocalypsenow:transmitter"
+    },
+    "c": {
+      "item": "minecraft:glass_pane"
+    },
+    "d": {
+      "item": "apocalypsenow:copperwire"
+    },
+    "e": {
+      "item": "apocalypsenow:broken_military_radio"
+    },
+    "f": {
+      "item": "apocalypsenow:scrapmetal"
+    },
+    "g": {
+      "item": "apocalypsenow:electrical_scrap"
+    },
+    "h": {
+      "item": "apocalypsenow:engineering_parts"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:military_radio",
+    "count": 1
+  }
+}

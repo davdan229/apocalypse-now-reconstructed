@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/garfo",
+  "textures": {
+    "0": "apocalypsenow:block/garfo",
+    "particle": "apocalypsenow:item/gardeingsaw"
+  }
+}

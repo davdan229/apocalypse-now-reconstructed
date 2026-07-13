@@ -1,0 +1,41 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Academic Free License v3.0"
+issueTrackerURL="https://github.com/davdan229/apocalypse-now-reconstructed/issues"
+
+[[mods]]
+modId="apocalypsenow"
+version="3.0.5"
+displayName="Apocalypse Now"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/apocalypse-now/files"
+logoFile="logo.png"
+credits="Original mod by JPZamps. Unofficial reconstructed and enhanced maintenance edition."
+authors="JPZamps"
+description='''
+A maximally reconstructed and enhanced edition of Apocalypse Now 3.0.5 for Minecraft 1.20.1 Forge.
+Original mod and content by JPZamps.
+'''
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.apocalypsenow]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.apocalypsenow]]
+    modId="curios"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.apocalypsenow]]
+    modId="curios_api"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"

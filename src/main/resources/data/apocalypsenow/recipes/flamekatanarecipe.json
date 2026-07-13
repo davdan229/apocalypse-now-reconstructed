@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "apocalypsenow:katana"
+  },
+  "base": {
+    "item": "apocalypsenow:fire_module"
+  },
+  "addition": {
+    "item": "apocalypsenow:engineering_parts"
+  },
+  "result": {
+    "item": "apocalypsenow:fire_module_katana"
+  }
+}

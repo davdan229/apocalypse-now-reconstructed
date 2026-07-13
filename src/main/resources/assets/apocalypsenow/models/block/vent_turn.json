@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/venturn",
+  "textures": {
+    "all": "apocalypsenow:block/venturn",
+    "particle": "apocalypsenow:block/venturn",
+    "0": "apocalypsenow:block/venturn"
+  },
+  "render_type": "cutout"
+}

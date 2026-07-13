@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aaa",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:leather"
+    },
+    "b": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:sheriff_helmet",
+    "count": 1
+  }
+}

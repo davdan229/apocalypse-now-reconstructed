@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apocalypsenow:block/large_shelves"
+    },
+    "facing=east": {
+      "model": "apocalypsenow:block/large_shelves",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypsenow:block/large_shelves",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypsenow:block/large_shelves",
+      "y": 270
+    }
+  }
+}

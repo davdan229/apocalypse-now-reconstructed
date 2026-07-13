@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:cloth"
+    },
+    {
+      "item": "apocalypsenow:textilethread"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:bandage",
+    "count": 1
+  }
+}

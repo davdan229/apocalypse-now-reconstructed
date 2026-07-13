@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/corpse",
+  "textures": {
+    "all": "apocalypsenow:block/corpse",
+    "particle": "apocalypsenow:block/corpse",
+    "0": "apocalypsenow:block/corpse"
+  },
+  "render_type": "solid"
+}

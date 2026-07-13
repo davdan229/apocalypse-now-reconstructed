@@ -1,0 +1,12 @@
+{
+  "type": "apocalypsenow:legacy_smithing",
+  "base": {
+    "item": "apocalypsenow:combat_axe"
+  },
+  "addition": {
+    "item": "apocalypsenow:electrical_module"
+  },
+  "result": {
+    "item": "apocalypsenow:electrical_combat_axe"
+  }
+}

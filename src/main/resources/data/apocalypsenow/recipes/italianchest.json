@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:polyester"
+    },
+    "b": {
+      "item": "apocalypsenow:italian_tag"
+    },
+    "c": {
+      "item": "apocalypsenow:armorplate"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:italian_bersaglieri_army_chestplate",
+    "count": 1
+  }
+}

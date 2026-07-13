@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/log_spike",
+  "textures": {
+    "all": "apocalypsenow:block/barreiradeespinhos",
+    "particle": "apocalypsenow:block/barreiradeespinhos",
+    "0": "apocalypsenow:block/barreiradeespinhos"
+  },
+  "render_type": "solid"
+}

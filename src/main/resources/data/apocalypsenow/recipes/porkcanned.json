@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "b": {
+      "item": "apocalypsenow:can"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:canned_pork",
+    "count": 1
+  }
+}

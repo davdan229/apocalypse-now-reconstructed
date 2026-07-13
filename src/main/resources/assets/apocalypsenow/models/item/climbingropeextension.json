@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "apocalypsenow:item/climbing_rope"
+  },
+  "render_type": "translucent"
+}

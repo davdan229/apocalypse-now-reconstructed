@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/metalbarsmetalbars",
+  "textures": {
+    "all": "apocalypsenow:block/metalbars",
+    "particle": "apocalypsenow:block/metalbars",
+    "0": "apocalypsenow:block/metalbars"
+  },
+  "render_type": "translucent"
+}

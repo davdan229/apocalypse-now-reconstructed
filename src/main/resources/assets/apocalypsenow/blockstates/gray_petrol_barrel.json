@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apocalypsenow:block/gray_petrol_barrel"
+    },
+    "facing=east": {
+      "model": "apocalypsenow:block/gray_petrol_barrel",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypsenow:block/gray_petrol_barrel",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypsenow:block/gray_petrol_barrel",
+      "y": 270
+    }
+  }
+}

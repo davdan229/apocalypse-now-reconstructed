@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:water"
+    },
+    "b": {
+      "item": "apocalypsenow:small_can"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:canned_water",
+    "count": 1
+  }
+}

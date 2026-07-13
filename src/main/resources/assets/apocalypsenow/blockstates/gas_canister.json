@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apocalypsenow:block/gas_canister"
+    },
+    "facing=east": {
+      "model": "apocalypsenow:block/gas_canister",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypsenow:block/gas_canister",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypsenow:block/gas_canister",
+      "y": 270
+    }
+  }
+}

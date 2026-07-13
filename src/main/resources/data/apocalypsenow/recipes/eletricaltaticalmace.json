@@ -1,0 +1,12 @@
+{
+  "type": "apocalypsenow:legacy_smithing",
+  "base": {
+    "item": "apocalypsenow:tatical_mace"
+  },
+  "addition": {
+    "item": "apocalypsenow:electrical_module"
+  },
+  "result": {
+    "item": "apocalypsenow:electrical_tactical_mace"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:red_dye"
+    },
+    "b": {
+      "item": "apocalypsenow:letter_opener"
+    },
+    "c": {
+      "item": "apocalypsenow:scrapmetal"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:switch_knife",
+    "count": 1
+  }
+}

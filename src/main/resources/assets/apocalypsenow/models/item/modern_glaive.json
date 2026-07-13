@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/m_glaive",
+  "textures": {
+    "0": "apocalypsenow:block/m_glaive",
+    "particle": "apocalypsenow:item/modern_tomahawk"
+  }
+}

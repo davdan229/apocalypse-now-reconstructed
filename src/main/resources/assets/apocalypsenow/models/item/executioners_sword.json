@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/matado",
+  "textures": {
+    "0": "apocalypsenow:block/espada_da_execucao",
+    "particle": "apocalypsenow:item/expeditionmachete"
+  }
+}

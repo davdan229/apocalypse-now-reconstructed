@@ -1,0 +1,9 @@
+{
+  "parent": "apocalypsenow:custom/cross",
+  "textures": {
+    "all": "apocalypsenow:block/cross",
+    "particle": "apocalypsenow:block/cross",
+    "0": "apocalypsenow:block/cross"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    "bdb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone_block"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "apocalypsenow:electrical_scrap"
+    },
+    "d": {
+      "item": "apocalypsenow:copperwire"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:transmitter",
+    "count": 1
+  }
+}

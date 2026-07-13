@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:emptybloodbag"
+    },
+    {
+      "item": "apocalypsenow:bloodsyringe"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:bloodbag",
+    "count": 1
+  }
+}

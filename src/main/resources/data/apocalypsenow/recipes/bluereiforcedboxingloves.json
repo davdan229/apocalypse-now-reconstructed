@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:ducttape"
+    },
+    {
+      "item": "apocalypsenow:blue_boxing_gloves"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:reinforced_blue_boxing_gloves",
+    "count": 1
+  }
+}

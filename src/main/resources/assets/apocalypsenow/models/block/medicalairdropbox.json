@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "apocalypsenow:block/medicaldropbotton",
+    "up": "apocalypsenow:block/medicaldroptop",
+    "north": "apocalypsenow:block/medicaldropsides",
+    "east": "apocalypsenow:block/medicaldropside",
+    "south": "apocalypsenow:block/medicaldropsides",
+    "west": "apocalypsenow:block/medicaldropside",
+    "particle": "apocalypsenow:block/medicaldropbotton"
+  },
+  "render_type": "solid"
+}

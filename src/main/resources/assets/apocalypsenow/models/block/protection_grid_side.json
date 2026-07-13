@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "edge": "apocalypsenow:block/gradedeprotecao",
+    "pane": "apocalypsenow:block/gradedeprotecao"
+  },
+  "render_type": "cutout_mipped"
+}

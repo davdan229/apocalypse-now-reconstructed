@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bab",
+    "cbc"
+  ],
+  "key": {
+    "a": {
+      "item": "apocalypsenow:cloth"
+    },
+    "b": {
+      "item": "minecraft:leather"
+    },
+    "c": {
+      "item": "apocalypsenow:scrapmetal"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:rusty_chestplate",
+    "count": 1
+  }
+}

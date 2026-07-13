@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:baseball_bat"
+    },
+    {
+      "item": "apocalypsenow:scrapmetal"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:wrapped_baseball_bat",
+    "count": 1
+  }
+}

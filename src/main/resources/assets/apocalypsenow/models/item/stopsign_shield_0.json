@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/stopshieldblock",
+  "textures": {
+    "0": "apocalypsenow:block/stopshield",
+    "particle": "apocalypsenow:item/adaga"
+  }
+}

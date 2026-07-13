@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/guitar",
+  "textures": {
+    "0": "apocalypsenow:block/guitar",
+    "particle": "apocalypsenow:item/chainsaw2"
+  }
+}

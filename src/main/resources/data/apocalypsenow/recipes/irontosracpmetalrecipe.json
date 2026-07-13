@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "apocalypsenow:hammer"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:scrapmetal",
+    "count": 4
+  }
+}

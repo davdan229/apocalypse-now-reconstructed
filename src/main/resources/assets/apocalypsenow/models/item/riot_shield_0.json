@@ -1,0 +1,7 @@
+{
+  "parent": "apocalypsenow:custom/riotshieldblock",
+  "textures": {
+    "0": "apocalypsenow:block/riotshield",
+    "particle": "apocalypsenow:item/adaga"
+  }
+}

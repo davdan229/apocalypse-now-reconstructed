@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "bab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "apocalypsenow:plasticplate"
+    },
+    "c": {
+      "item": "apocalypsenow:trashblue"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:trashcann",
+    "count": 1
+  }
+}

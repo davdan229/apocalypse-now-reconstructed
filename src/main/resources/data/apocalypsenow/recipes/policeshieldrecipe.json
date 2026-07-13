@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "bc",
+    "bc"
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:stained_glass_panes"
+    },
+    "b": {
+      "item": "apocalypsenow:armorplate"
+    },
+    "c": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "apocalypsenow:police_shield",
+    "count": 1
+  }
+}

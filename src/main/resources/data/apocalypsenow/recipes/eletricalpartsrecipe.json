@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "apocalypsenow:cellphone"
+    },
+    {
+      "item": "apocalypsenow:screwdriver"
+    }
+  ],
+  "result": {
+    "item": "apocalypsenow:electrical_scrap",
+    "count": 1
+  }
+}

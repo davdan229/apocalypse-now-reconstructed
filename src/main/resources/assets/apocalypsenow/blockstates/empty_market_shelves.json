@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "apocalypsenow:block/empty_market_shelves"
+    },
+    "facing=east": {
+      "model": "apocalypsenow:block/empty_market_shelves",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "apocalypsenow:block/empty_market_shelves",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "apocalypsenow:block/empty_market_shelves",
+      "y": 270
+    }
+  }
+}
