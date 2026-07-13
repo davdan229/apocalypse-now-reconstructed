@@ -2,7 +2,7 @@
 
 All notable changes to the reconstructed edition are documented in this file.
 
-## 3.0.5-reconstructed.1 — 2026-07-13
+## 3.0.5-r1 — 2026-07-13
 
 ### Source and build restoration
 
